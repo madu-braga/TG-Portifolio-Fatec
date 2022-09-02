@@ -78,7 +78,6 @@ Desenvolvemos uma interface amigável e intuitiva, que permite ao administrador 
 Na tela <b> Relatórios </b> os usuários têm acesso a relatórios mensais que apresentam um quadro de presença de colaboradores em postos de trabalhos acordados em contrato. Os relatórios podem ser baixados em formato de dashboard, permitindo que os usuários visualizem as informações de forma clara e organizada. 
 <br><br>
 Desenvolvemos um sistema de geração de relatórios automatizado que extrai informações do banco de dados da plataforma e as organiza em um formato fácil de entender. Os relatórios são uma ferramenta importante para ajudar as empresas a monitorar a presença de seus colaboradores e cumprir os termos dos contratos estabelecidos com seus clientes.
-
   
   </details> 
    
