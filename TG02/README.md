@@ -101,7 +101,6 @@ Nosso guia é simples e fácil de entender, com instruções passo a passo e ima
   
   </details> 
 
-
  <img src="../gifs/segundoSemestre.gif" width="720" height="420"> 
  
 > Gif da execução completa.
