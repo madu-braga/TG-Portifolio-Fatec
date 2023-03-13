@@ -14,5 +14,19 @@ Atualmente sou estágiaria na área de desenvolvimento na Johnson & Johnson, ond
 <br><br>
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - realizados durante minha graduação no curso de Análise e Desenvolvito de Sistema. Colaborei com o desenvolvimento de seis projetos, sendo cada um deles entregues por semestre desde o começo da graduação. 
 <br><br>
-  <br>
  </div>
+ 
+ ##
+ 
+<h3 align="left"> 	Projetos </h3> 
+<div align="left">
+  
+ |   API  |    Descrição    |
+ | :---         | :---      |
+ | [1° Semester]()    | Website para uma ONG de cuidados infantis |
+ | [2° Semester]()   | CRUD para uma empresa de Software gerir o quadro de presenças   |    
+ | [3° Semester]()   | Sistema para processar e armazenar contas de diversos setores       |
+
+> _Clique em uma opção acima para ser direcionado a pasta referente a entrega_
+ 
+</div>
