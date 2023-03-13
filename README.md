@@ -34,7 +34,8 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  ##
  
 <h3 align="left"> 	Conhecimento Técnico </h3> 
-
+ <!-- Back-end / Front-end / DevOps -->
+  
  ##
  
 <h3 align="left"> 	Contato </h3> 
