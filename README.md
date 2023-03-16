@@ -86,8 +86,6 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank">
 </details>
 
-> _Clique em uma opção acima para mostrar as principais ferramentas com as quais desenvolvi ao longo de minha formação._
-
  ##
  
 <h3 align="left"> 	Contato </h3> 
