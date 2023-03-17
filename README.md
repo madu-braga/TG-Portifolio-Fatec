@@ -99,4 +99,3 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
    </a> 
 </div>
-
