@@ -23,9 +23,9 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
   
  |   API  |    Descrição    |
  | :---         | :---      |
- | [1° Semester]()    | Website para uma ONG de cuidados infantis |
- | [2° Semester]()   | CRUD para uma empresa de Software gerir o quadro de presenças   |    
- | [3° Semester]()   | Sistema para processar e armazenar contas de diversos setores       |
+ | [1° Semester](https://github.com/madu-braga/TG_Portifolio_Fatec/tree/main/primeiroSemestre)    | Website para uma ONG de cuidados infantis |
+ | [2° Semester](https://github.com/madu-braga/TG_Portifolio_Fatec/tree/main/segundoSemestre)   | CRUD para uma empresa de Software gerir o quadro de presenças   | 
+ | [3° Semester](https://github.com/madu-braga/TG_Portifolio_Fatec/tree/main/terceiroSemestre)   | Sistema para processar e armazenar contas de diversos setores       |
 
 > _Clique em uma opção acima para ser direcionado a pasta referente a entrega._
  
