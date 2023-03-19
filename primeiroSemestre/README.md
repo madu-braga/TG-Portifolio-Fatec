@@ -55,11 +55,19 @@ Neste projeto fui *Dev* - desenvolvedora - e pude contribuir bastante com a conc
 <div>
 
 ## Hard Skills
-Durante a elaboração do projeto, utilizei e desenvolvi as seguintes hard skills:
-- Programação em C/C++: Criação de código-fonte para controlar placas microcontroladores (Arduíno) | Sei fazer com auxílio de consultas
-- Kodular: Programação em blocos para aplicativos mobile | Sei fazer com auxílio de consultas
-- Montagem de circuítos elétricos para sensores de IoT | Sei fazer com auxílio de consultas
-- Comunicação via Bluetooth entre dispositivos | Sei fazer com auxílio de consultas
+- Conceitos aplicados de UX Designer;<br>
+- Conceitos inicias de arquitetura de software; <br>
+- Manipulação de entradas com Javascript; <br>
+- Dominio de HTML5; <br>
+- Dominio de CSS3; <br>
+- Edição de imagens com Canva; <br>
+- Criação de Wireframe com Figma. <br>
 
 ## Soft Skills
-Como desempenhei o papel de *master*, tive a oportunidade de exercitar as soft skills de gestão de equipes, planejamento de sprints e resolução de conflitos entre os integrantes do projeto.
+ - Comunicação eficaz; <br>
+ - Aprendizagem ativa; <br>
+ - Planejamento; <br>
+ - Organização; <br>
+ - Autonomia; <br>
+ - Gestão de tempo; <br>
+ - Colaboração. <br>
