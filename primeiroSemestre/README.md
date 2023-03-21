@@ -2,10 +2,14 @@
 
 <div align="justify">
 No primeiro semestre os próprios professores fizeram o papel de cliente. O tema desenvolvido foi a criação de um Website para uma ONG de cuidados infantis - Vó Maria Félix - com crianças na faixa etária entre 0 a 7 anos que teve por propósito facilitar o contato da instituição com os seus alunos e voluntários. 
+<br><br>
+Abaixo está a página Home com o chat proposto para responder dúvidas sobre a funcionalidade e a escola. Além de um carrossel com imagens da ONG e texto explicativo e, o menu de navegação com as opções: "Sobre Nós" - para saber mais da ONG - "Ajude" - para doações - "Projeto" - com os projetos feitos pela ONG -  "Cadastros" - para cadastro de voluntários e -  "Alunos" - com atividades para as crianças atendidas.
 <div><br>
-
-Tivemos por requisitos:<br>
+  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1087750138648350730/image.png" width="700" height="450"> 
+   
 <br>
+ <h3 align="left">Tivemos por requisitos</h3> 
+
 **Funcionais:**<br>
 ✔️ Cadastro de Participantes;<br>
 ✔️ Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio);<br>
