@@ -1,3 +1,15 @@
+<p align="center">
+  <a href ="Sobre-o-projeto"> Sobre o projeto  </a>  • 
+  <a href ="telas"> Telas </a>  • 
+  <a href ="##requisitos"> Requisitos </a>  • 
+  <a href ="#iphone-front-end-mobile"> Front-end Mobile </a>  •
+  <a href ="#gear-back-end"> Back-end </a>  • 
+  <a href ="#page_with_curl-backlog"> Backlog </a>  •  
+  <a href ="#computer-wireframe"> Wireframe</a>  • 
+  <a href ="#rocket-tecnologias"> Tecnologias </a>  •  
+  <a href ="#mortar_board-dev-team"> Dev Team </a> 
+</p>
+
 ## Sobre o projeto 
 
 <div align="justify">
