@@ -12,9 +12,35 @@ O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem ma
 
 
 ## Telas
+  
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1087750138648350730/image.png" width="600" height="350"> 
   
-   > Tela inicial com um carrossel de eventos e notícias da ONG. <br> Menu de navegação para outras páginas e um chat para ajuda.
+   > Tela "Inicial" com um carrossel de eventos e notícias da ONG. <br> Menu de navegação para outras páginas e um chat para ajuda.
+  
+  <br>
+
+  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1092815961708560535/image.png" width="600" height="300"> 
+  
+   > Tela "Sobre Nós" com a história da ONG, seu propósito e sua transparência.
+  
+   <br>
+
+  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1092816251589509250/image.png" width="600" height="300"> 
+  
+   > Tela "Ajude" com um lugar para realização de doações.
+  
+   <br>
+
+  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1092816725780742164/image.png" width="600" height="300"> 
+  
+   > Tela "Projetos" com todos os projetos realizados pela ONG - foto e descrição - e uma aba de busca.
+  
+   <br>
+
+  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1092817183568035860/image.png" width="600" height="300"> 
+  
+   > Tela "Login" para autentificação de usuários Admim que podem editar o que foi postado e para que os alunos possam consultar materiais de auxílio.
+  
 <br>
 <br>
 
