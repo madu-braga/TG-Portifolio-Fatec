@@ -26,7 +26,7 @@ O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem ma
   
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1087750138648350730/image.png" width="600" height="350"> 
   
-Optamos pela escolha do layout da <b> tela inicial </b> com 3 colunas. A principal com um carrossel, a segunda coluna com eventos e a outra com as notícias da ONG. Também desenvolvemos um chat para tirar dúvidas afim de proporcionar uma melhor experiência ao usuário e garantir que as informações mais importantes da organização estivessem acessíveis de forma fácil e intuitiva.<br>
+Optamos pela escolha do layout da <b> Tela Inicial </b> com 3 colunas. A principal com um carrossel, a segunda coluna com eventos e a outra com as notícias da ONG. Também desenvolvemos um chat para tirar dúvidas afim de proporcionar uma melhor experiência ao usuário e garantir que as informações mais importantes da organização estivessem acessíveis de forma fácil e intuitiva.<br>
 
 O carrossel de eventos e notícias permite que o usuário tenha acesso rápido às informações mais recentes e importantes da ONG, enquanto as 3 colunas ajudam a organizar e separar essas informações de forma clara. Na palheta de cores também pensamos no usuário final que podê navegar de forma intuitiva e agradável.<br>
 
