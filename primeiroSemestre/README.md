@@ -36,7 +36,7 @@ Além disso, o chat de dúvidas oferece uma maneira fácil para os usuários ent
 
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1092815961708560535/image.png" width="600" height="300"> 
   
-A tela <b> "Sobre Nós" </b> foi criada com o propósito de informar os usuários sobre a história da ONG, seu propósito e sua transparência em relação às suas atividades e financiamentos. Através dessa tela, os usuários podem conhecer mais sobre a organização e entender seus objetivos e valores, o que ajuda a construir uma relação de confiança com o público. <br>
+A tela <b> Sobre Nós </b> foi criada com o propósito de informar os usuários sobre a história da ONG, seu propósito e sua transparência em relação às suas atividades e financiamentos. Através dessa tela, os usuários podem conhecer mais sobre a organização e entender seus objetivos e valores, o que ajuda a construir uma relação de confiança com o público. <br>
 
 Além disso, enfatizamos a transparência da ONG em relação às suas atividades e financiamentos, a fim de transmitir uma imagem de credibilidade e confiança para os usuários. Por isso, a tela "Sobre Nós" foi desenvolvida de forma clara e objetiva, com informações relevantes e de fácil acesso para os usuários, permitindo que eles conheçam a fundo a organização e sua missão com imagens para tornar tudo mais claro.
   
