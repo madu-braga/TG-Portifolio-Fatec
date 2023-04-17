@@ -142,26 +142,26 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto fui <b>Dev</b> - desenvolvedora - e pude contribuir bastante com a conclusão da entrega. Por já ter tido embasamento técnico, não houve dificuldade alguma na aplicação do nosso protótipo para as linguagens - HTML5 e CSS3. Também utilizamos recursos de JavaScript para criação de um ChatBot responsivo. Auxiliei em cada fase do projeto e em cada página - resolvendo eventuais <i>'bugs'</i> - falhas - com o restante do time e ficando disponível para ajudar com qualquer tarefa. Organizamos juntos corretamente as pastas e atendemos mais que o proposto. Além disso, dividimos os times em subgrupos para cada um deles entregar as páginas e juntos termos todo Website navegável. Buscamos - mesmo sendo a primeira entrega - o valor do MVP e aplicamos recursos de UX designer.
+Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclusão da entrega. Por já ter tido embasamento técnico, não houve dificuldade alguma na aplicação do nosso protótipo para as linguagens - HTML5 e CSS3. Também utilizamos recursos de JavaScript para criação de um ChatBot responsivo. Auxiliei em cada fase do projeto e em cada página - resolvendo eventuais eventuais falhas com o restante do time e ficando disponível para ajudar com qualquer tarefa. Organizamos juntos corretamente as pastas e atendemos mais que o proposto. Além disso, dividimos os times em subgrupos para cada um deles entregar as páginas e juntos termos todo Website navegável. Buscamos - mesmo sendo a primeira entrega - o valor do MVP e aplicamos recursos de UX designer.
 <div>
 
 ## Hard Skills
-- Conceitos aplicados de UX Designer: Sei fazer com autonomia;<br>
-- Conceitos inicias de arquitetura de software: Sei fazer com ajuda; <br>
-- Manipulação do backend com o PHP: Sei fazer com auxílio de consultas; <br>
-- Utilização do MySQL como Banco de Dados: Sei fazer com auxílio de consultas; <br>
-- Manipulação de entradas com Javascript: Sei fazer com autonomia; <br>
-- Dominio de HTML5: Sei fazer com autonomia; <br>
-- Dominio de CSS3: Sei fazer com autonomia; <br>
-- Edição de imagens com Canva: Sei fazer com autonomia; <br>
-- Criação de Wireframe com Figma: Sei fazer com autonomia. <br>
+- **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;<br>
+- **Conceitos inicias de arquitetura de software:** Sei fazer com ajuda; <br>
+- **Manipulação do backend com o PHP:** Sei fazer com auxílio de consultas; <br>
+- **Utilização do MySQL como Banco de Dados:** Sei fazer com auxílio de consultas; <br>
+- **Manipulação de entradas com Javascript:** Sei fazer com autonomia; <br>
+- **Dominio de HTML5:** Sei fazer com autonomia; <br>
+- **Dominio de CSS3:** Sei fazer com autonomia; <br>
+- **Edição de imagens com Canva:** Sei fazer com autonomia; <br>
+- **Criação de Wireframe com Figma:** Sei fazer com autonomia. <br>
 
 ## Soft Skills
- - Comunicação eficaz: Soube me comunicar de forma clara e assertiva; <br>
- - Aprendizagem ativa: Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado; <br>
- - Planejamento: Lidei bem com o Backlog para realizar bem as entregas dentro de cada sprint; <br>
- - Organização: Entreguei tudo de forma bem organizada e clara; <br>
- - Autonomia: Consegui realizar bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
- - Gestão de tempo: Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
- - Colaboração: Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
+ - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva; <br>
+ - **Aprendizagem ativa:** Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado; <br>
+ - **Planejamento:** Lidei bem com o Backlog para realizar bem as entregas dentro de cada sprint; <br>
+ - **Organização:** Entreguei tudo de forma bem organizada e clara; <br>
+ - **Autonomia:** Consegui realizar bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
+ - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
+ - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
  
