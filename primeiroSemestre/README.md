@@ -24,6 +24,8 @@ O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem ma
 
 ## Telas
 
+![Gif da execução do projeto](../img/1-semestre.gif)
+  
 <!-- Inicial -->
  <details>
   <summary>
