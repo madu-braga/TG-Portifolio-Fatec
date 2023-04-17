@@ -52,6 +52,7 @@ Além disso, enfatizamos a transparência da ONG em relação às suas atividade
   </details>
 
   <!-- Ajude -->
+  
   <details>
   <summary>
    <h4 align="left">Tela Ajude</h4>  
@@ -65,6 +66,7 @@ Nessa tela, os usuários podem encontrar informações sobre como fazer doaçõe
   </details>
 
     <!-- Projetos -->
+    
   <details>
   <summary>
    <h4 align="left">Tela Projetos</h4>  
@@ -77,6 +79,7 @@ Além disso, adicionamos uma aba de busca para tornar mais fácil para os usuár
   </details>
 
       <!-- login -->
+      
   <details>
   <summary>
    <h4 align="left">Tela Login</h4>  
