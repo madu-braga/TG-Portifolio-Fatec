@@ -65,9 +65,10 @@ Nessa tela, os usuários podem encontrar informações sobre como fazer doaçõe
   
   </details>
 
-    <!-- Projetos -->
+    
     
   <details>
+     <!-- Projeto -->
   <summary>
    <h4 align="left">Tela Projetos</h4>  
   </summary>
@@ -78,9 +79,10 @@ Para a tela <b> Projetos </b>, optamos por apresentar uma visualização clara e
 Além disso, adicionamos uma aba de busca para tornar mais fácil para os usuários encontrar projetos específicos que possam ser de seu interesse. Dessa forma, garantimos que o usuário possa explorar facilmente a variedade de projetos realizados pela ONG e encontrar maneiras de se envolver e contribuir para a causa em uma coluna única.
   </details>
 
-      <!-- login -->
-      
+   
+   
   <details>
+      <!-- login -->
   <summary>
    <h4 align="left">Tela Login</h4>  
   </summary>
