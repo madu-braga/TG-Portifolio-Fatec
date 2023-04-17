@@ -115,31 +115,31 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 <br>
    <h4 align="left">Reuniões e Apresentações</h4> 
    
-  - Discord; <br> 
-  - WhatsApp; <br> 
-  - Microsoft Teams.
+  - Discord: Utilizamos para armazenar informações importantes e trabalhar em reuniões; <br> 
+  - WhatsApp: Para troca de mensagens rápidas e avisos; <br> 
+  - Microsoft Teams: Para as reuniões com o cliente e visualização da documentação dos requisitos.
  
    <h4 align="left">Data-base</h4>  
  
-   - MySQL. 
+   - MySQL: Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
 
    <h4 align="left">Back-end </h4>  
   
-  - PHP;
-  - JavaScript.
+  - PHP: Utilizamos para manipular o Banco de Dados
+  - JavaScript: Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
   
    <h4 align="left">Front-end </h4>  
  
-  - HTML5; 
-  - CSS3;
-  - JavaScript.
+  - HTML5: Para marcar nosso layout e importar os componentes do website; 
+  - CSS3: Para estilizar nosso site;
+  - JavaScript: Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
   
    <h4 align="left">Outros</h4>  
  
-  - Github;
-  - Visual Studio Code;
-  - Figma;
-  - Photoshop.
+  - Github: Nosso repositório, onde trabalhamos com o controle de versão;
+  - Visual Studio Code: Nossa IDE para o desenvolvimento;
+  - Figma: Para criação do protótipo navegável;
+  - Photoshop: Para edição das imagens.
 <br>
 
 ## Contribuições Pessoais
@@ -148,19 +148,22 @@ Neste projeto fui <b>Dev</b> - desenvolvedora - e pude contribuir bastante com a
 <div>
 
 ## Hard Skills
-- Conceitos aplicados de UX Designer;<br>
-- Conceitos inicias de arquitetura de software; <br>
-- Manipulação de entradas com Javascript; <br>
-- Dominio de HTML5; <br>
-- Dominio de CSS3; <br>
-- Edição de imagens com Canva; <br>
-- Criação de Wireframe com Figma. <br>
+- Conceitos aplicados de UX Designer: Sei fazer com autonomia;<br>
+- Conceitos inicias de arquitetura de software: Sei fazer com ajuda; <br>
+- Manipulação do backend com o PHP: Sei fazer com auxílio de consultas; <br>
+- Utilização do MySQL como Banco de Dados: Sei fazer com auxílio de consultas; <br>
+- Manipulação de entradas com Javascript: Sei fazer com autonomia; <br>
+- Dominio de HTML5: Sei fazer com autonomia; <br>
+- Dominio de CSS3: Sei fazer com autonomia; <br>
+- Edição de imagens com Canva: Sei fazer com autonomia; <br>
+- Criação de Wireframe com Figma: Sei fazer com autonomia. <br>
 
 ## Soft Skills
- - Comunicação eficaz; <br>
- - Aprendizagem ativa; <br>
- - Planejamento; <br>
- - Organização; <br>
- - Autonomia; <br>
- - Gestão de tempo; <br>
- - Colaboração. <br>
+ - Comunicação eficaz: Soube me comunicar de forma clara e assertiva; <br>
+ - Aprendizagem ativa: Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado; <br>
+ - Planejamento: Lidei bem com o Backlog para realizar bem as entregas dentro de cada sprint; <br>
+ - Organização: Entreguei tudo de forma bem organizada e clara; <br>
+ - Autonomia: Consegui realizar bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
+ - Gestão de tempo: Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
+ - Colaboração: Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
+ 
