@@ -113,31 +113,31 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 <br>
    <h4 align="left">Reuniões e Apresentações</h4> 
    
-  - Discord: Utilizamos para armazenar informações importantes e trabalhar em reuniões; <br> 
-  - WhatsApp: Para troca de mensagens rápidas e avisos; <br> 
-  - Microsoft Teams: Para as reuniões com o cliente e visualização da documentação dos requisitos.
+  - **Discord:** Utilizamos para armazenar informações importantes e trabalhar em reuniões; <br> 
+  - **WhatsApp:** Para troca de mensagens rápidas e avisos; <br> 
+  - **Microsoft Teams:** Para as reuniões com o cliente e visualização da documentação dos requisitos.
  
    <h4 align="left">Data-base</h4>  
  
-   - MySQL: Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
+   - **MySQL:** Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
 
    <h4 align="left">Back-end </h4>  
   
-  - PHP: Utilizamos para manipular o Banco de Dados
-  - JavaScript: Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
+  - **PHP:** Utilizamos para manipular o Banco de Dados
+  - **JavaScript:** Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
   
    <h4 align="left">Front-end </h4>  
  
-  - HTML5: Para marcar nosso layout e importar os componentes do website; 
-  - CSS3: Para estilizar nosso site;
-  - JavaScript: Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
+  - **HTML5:** Para marcar nosso layout e importar os componentes do website; 
+  - **CSS3:** Para estilizar nosso site;
+  - **JavaScript:** Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
   
    <h4 align="left">Outros</h4>  
  
-  - Github: Nosso repositório, onde trabalhamos com o controle de versão;
-  - Visual Studio Code: Nossa IDE para o desenvolvimento;
-  - Figma: Para criação do protótipo navegável;
-  - Photoshop: Para edição das imagens.
+  - **Github:** Nosso repositório, onde trabalhamos com o controle de versão;
+  - **Visual Studio Code:** Nossa IDE para o desenvolvimento;
+  - **Figma:** Para criação do protótipo navegável;
+  - **Photoshop:** Para edição das imagens.
 <br>
 
 ## Contribuições Pessoais
