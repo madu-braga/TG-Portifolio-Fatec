@@ -95,6 +95,8 @@ Essa tela foi fundamental para garantir que apenas usuários autorizados tenham 
 <br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br>
 > Gif da execução completa.
 
+<br>
+  
 ## Requisitos 
 
 **Funcionais:**<br>
