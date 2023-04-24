@@ -86,7 +86,14 @@ Essa tela foi fundamental para garantir que apenas usuários autorizados tenham 
   
   </details>
 
- <img src="../gifs/primeiroSemestre.gif" width="720" height="420"> 
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" style="border: none;"><img src="../gifs/primeiroSemestre_1.gif" height="320" width="100%"></td>
+    <td width="50%" style="border: none;"><img src="../gifs/primeiroSemestre_2.gif" height="320" width="100%"></td>
+  </tr>
+</table>
+
+ 
  
 > Gif da execução completa.
 
