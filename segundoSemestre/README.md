@@ -14,7 +14,7 @@
 ## Sobre o projeto 
 
 <div align="justify">
-No primeiro semestre os próprios professores fizeram o papel de cliente. O tema desenvolvido foi a criação de um Website para uma ONG de cuidados infantis - Vó Maria Félix - com crianças na faixa etária entre 0 a 7 anos que teve por propósito facilitar o contato da instituição com os seus alunos e voluntários. 
+No segundo semestre tivemos por cliente uma empresa de software. O objetivo do nosso grupo foi criar um CRUD para a empresa com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
 <br><br>
 Abaixo está a página "inicial" com o <i>chat</i> proposto para responder às dúvidas sobre a funcionalidade e a escola. Além de um carrossel com imagens da ONG e texto explicativo e, o menu de navegação com as opções: "Sobre Nós" - para saber mais da ONG - "Ajude" - para doações - "Projeto" - com os projetos feitos pela ONG -  "Cadastros" - para cadastro de voluntários e -  "Alunos" - com atividades para as crianças atendidas.
 <br><br>
@@ -88,7 +88,7 @@ Essa tela foi fundamental para garantir que apenas usuários autorizados tenham 
   
   </details>-->
 <!--
- <img src="../gifs/primeiroSemestre.gif" width="720" height="420"> 
+ <img src="../gifs/segundoSemestre.gif" width="720" height="420"> 
  
 > Gif da execução completa.
 
