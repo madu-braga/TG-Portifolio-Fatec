@@ -14,8 +14,6 @@
 <div align="justify">
 No primeiro semestre os próprios professores fizeram o papel de cliente. O tema desenvolvido foi a criação de um Website para uma ONG de cuidados infantis - Vó Maria Félix - com crianças na faixa etária entre 0 a 7 anos que teve por propósito facilitar o contato da instituição com os seus alunos e voluntários. 
 <br><br>
-Abaixo está a página "inicial" com o <i>chat</i> proposto para responder às dúvidas sobre a funcionalidade e a escola. Além de um carrossel com imagens da ONG e texto explicativo e, o menu de navegação com as opções: "Sobre Nós" - para saber mais da ONG - "Ajude" - para doações - "Projeto" - com os projetos feitos pela ONG -  "Cadastros" - para cadastro de voluntários e -  "Alunos" - com atividades para as crianças atendidas.
-<br><br>
 As cores foram escolhidas para remeter a infância, um designer colorido para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo, pensando - principalmente - nas crianças da ONG que podem vir a usar e também em seus responsáveis. 
 <br><br>
 O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem mais do que o esperado e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
