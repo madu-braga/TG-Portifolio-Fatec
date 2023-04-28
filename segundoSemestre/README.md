@@ -9,88 +9,117 @@
 
 <br>
 
-<!--
 
 ## Sobre o projeto 
 
 <div align="justify">
 No segundo semestre tivemos por cliente uma empresa de software. O objetivo do nosso grupo foi criar um CRUD para a empresa com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
 <br><br>
-Abaixo está a página "inicial" com o <i>chat</i> proposto para responder às dúvidas sobre a funcionalidade e a escola. Além de um carrossel com imagens da ONG e texto explicativo e, o menu de navegação com as opções: "Sobre Nós" - para saber mais da ONG - "Ajude" - para doações - "Projeto" - com os projetos feitos pela ONG -  "Cadastros" - para cadastro de voluntários e -  "Alunos" - com atividades para as crianças atendidas.
+As cores foram escolhidas para remeter a logo da empresa e gerar confiabilidade aos usuários. Um designer bem pensado para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo para os colaboradores que o utilizarão. 
 <br><br>
-As cores foram escolhidas para remeter a infância, um designer colorido para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo, pensando - principalmente - nas crianças da ONG que podem vir a usar e também em seus responsáveis. 
-<br><br>
-O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem mais do que o esperado e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
+O cliente gostou bastante da entrega. Desenvolvemos bem tudo que foi proposto e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
 <div><br>
 
 
 ## Telas
 
-<!-- Inicial --><!-- 
+<!-- Inicial -->
  <details>
   <summary>
-  <h4 align="left">Tela Inicial</h4>  
+  <h4 align="left">Tela Inicial com Login</h4>  
   </summary>
-    Optamos pela escolha do layout da <b> Tela Inicial </b> com 3 colunas. A principal com um carrossel, a segunda coluna com eventos e a outra com as notícias da ONG. Também desenvolvemos um chat para tirar dúvidas afim de proporcionar uma melhor experiência ao usuário e garantir que as informações mais importantes da organização estivessem acessíveis de forma fácil e intuitiva. <br><br>
+    Optamos pela escolha do layout da <b> Tela Inicial </b> com 2 colunas para proporcionar uma melhor experiência ao usuário. A coluna principal contém uma imagem de destaque que representa o propósito da plataforma e a segunda coluna possui o campo de login para que apenas usuários autenticados tenham acesso aos recursos disponíveis. 
+    <br> <br>
+    Essa medida de segurança é necessária para garantir a privacidade dos dados dos usuários e oferecer uma navegação mais confiável e eficiente. Além disso, desenvolvemos um website intuitivo para facilitar a utilização da plataforma desde a primeira interação.
+    
 
-  Além disso, o chat de dúvidas oferece uma maneira fácil para os usuários entrarem em contato com a ONG para aumentar o engajamento do usuário e a construir uma relação mais próxima com o público.
-  -->
   </details>
 
 
-<!-- Sobre Nós 
+<!-- Marcação de Presença -->
   <details>
   <summary>
-   <h4 align="left">Tela Sobre Nós</h4>  
+   <h4 align="left">Marcação de Presença</h4>  
   </summary>
-  
-A tela <b> Sobre Nós </b> foi criada com o propósito de informar os usuários sobre a história da ONG, seu propósito e sua transparência em relação às suas atividades e financiamentos. Através dessa tela, os usuários podem conhecer mais sobre a organização e entender seus objetivos e valores, o que ajuda a construir uma relação de confiança com o público. <br>
+A tela <b> Marcação de Presença </b> foi criada com o propósito de registrar as presenças dos colaboradores. Uma única coluna simples e intuitiva, sem poluição visual e que garante fácil acesso do colaborador em nosso sistema de marcação de presença.
+<br><br>
+Com essa implementação, os gestores terão acesso a dados atualizados e precisos sobre a presença dos colaboradores. Além disso, tornamos o sistema de chamada fácil e intuitivo para que os usuários possam registrar sua presença de forma rápida e sem complicações. 
 
-Além disso, enfatizamos a transparência da ONG em relação às suas atividades e financiamentos, a fim de transmitir uma imagem de credibilidade e confiança para os usuários. Por isso, a tela "Sobre Nós" foi desenvolvida de forma clara e objetiva, com informações relevantes e de fácil acesso para os usuários, permitindo que eles conheçam a fundo a organização e sua missão com imagens para tornar tudo mais claro em uma coluna única.
-  
-  </details>-->
+  </details>
 
-  <!-- Ajude
+  <!-- Controle de Pefis -->
   
   <details>
   <summary>
-   <h4 align="left">Tela Ajude</h4>  
+   <h4 align="left">Controle de Pefis</h4>  
   </summary>
   
-Na tela <b> Ajude </b> criamos um lugar dedicado para a realização de doações. Nós sabemos que muitos usuários podem estar interessados em ajudar a ONG de alguma forma, e por isso, quisemos tornar esse processo o mais simples e fácil possível. <br>
-
-Nessa tela, os usuários podem encontrar informações sobre como fazer doações e também uma área para preencher seus dados e efetivar a doação. Com essa tela, esperamos incentivar mais pessoas a contribuírem com a ONG e tornar o processo de doação mais acessível para todos em uma coluna única.
+Na tela <b> Controle de Perfis </b> os usuários terão acesso a todos os perfis cadastrados no site, podendo editar e gerenciá-los de forma eficiente. Pelo controle de perfis ser uma funcionalidade essencial para a gestão de usuários, permitimos a fácil atribuição de diferentes níveis de acesso à plataforma e recursos disponíveis. Ao oferecer aos usuários a possibilidade de editar e gerenciar os perfis cadastrados. Nessa página, a plataforma se torna mais flexível e personalizada, atendendo às necessidades específicas de cada usuário. 
+<br><br>
+Além disso, desenvolvemos uma interface intuitiva e fácil de usar, que torna o processo de edição e gerenciamento de perfis mais ágil e eficiente. Esperamos que essa funcionalidade contribua para a melhoria da experiência do usuário com a plataforma e facilite a gestão de recursos humanos da empresa de software.
   
-  </details> -->
-<!--
-  <details>
-      Projeto 
-  <summary>
-   <h4 align="left">Tela Projetos</h4>  
-  </summary>
- 
-Para a tela <b> Projetos </b>, optamos por apresentar uma visualização clara e organizada de todos os projetos realizados pela ONG. Cada projeto possui uma foto e uma descrição detalhada, permitindo que o usuário entenda facilmente o que cada projeto representa e como ele pode contribuir.
-
-Além disso, adicionamos uma aba de busca para tornar mais fácil para os usuários encontrar projetos específicos que possam ser de seu interesse. Dessa forma, garantimos que o usuário possa explorar facilmente a variedade de projetos realizados pela ONG e encontrar maneiras de se envolver e contribuir para a causa em uma coluna única.
-  </details> -->
-
+  </details> 
    
-   
- <!-- <details>
-       login 
+<!-- Cadastro de Usuários -->
+  <details>
   <summary>
-   <h4 align="left">Tela Login</h4>  
+   <h4 align="left">Cadastro de Usuários</h4>  
+  </summary>
+Na tela <b> Cadastro de Usuários </b>  o administrador do sistema pode cadastrar novos usuários na plataforma. O processo de cadastro é simples e intuitivo, permitindo que o administrador insira as informações necessárias para cadastrar o usuário com facilidade. É possível atribuir diferentes níveis de acesso e permissões aos usuários, de acordo com suas necessidades específicas. 
+<br><br>
+Desenvolvemos uma interface amigável e intuitiva, que permite ao administrador gerenciar facilmente todos os usuários cadastrados na plataforma. A funcionalidade contribui para a gestão de recursos humanos da empresa de software e para uma melhor experiência do usuário.
+
+  </details> 
+  
+<!-- Relatórios -->
+  <details>
+  <summary>
+   <h4 align="left">Relatórios</h4>  
   </summary>
   
-A tela <b> Login </b> foi criada para permitir a autenticação de usuários Admin, que tivessem acesso privilegiado para editar as informações postadas na plataforma. Além disso, essa tela também foi desenvolvida também para os alunos que puderam acessar materiais de auxílio e outras informações relevantes. <br>
+Na tela <b> Relatórios </b> os usuários têm acesso a relatórios mensais que apresentam um quadro de presença de colaboradores em postos de trabalhos acordados em contrato. Os relatórios podem ser baixados em formato de dashboard, permitindo que os usuários visualizem as informações de forma clara e organizada. 
+<br><br>
+Desenvolvemos um sistema de geração de relatórios automatizado que extrai informações do banco de dados da plataforma e as organiza em um formato fácil de entender. Os relatórios são uma ferramenta importante para ajudar as empresas a monitorar a presença de seus colaboradores e cumprir os termos dos contratos estabelecidos com seus clientes.
 
-Essa tela foi fundamental para garantir que apenas usuários autorizados tenham acesso às informações e recursos da plataforma, além de permitir uma melhor organização e gerenciamento dos conteúdos postados pela ONG. Foi pensada também em fornecer as informações na tela de maneira intuitiva para uma melhor experiência ao usuário.
   
-  </details>-->
-<!--
+  </details> 
+   
+   <!-- Histórico de relatórios -->
+  
+  <details>
+  <summary>
+   <h4 align="left">Histórico de Relatórios</h4>  
+  </summary>
+Atráves da tela <b> Histórico de Relatórios </b> os usuários têm acesso ao histórico de relatórios gerados pela plataforma. É possível visualizar os últimos relatórios e suas análises de forma fácil e rápida. Com o histórico de relatórios, os usuários podem comparar os resultados ao longo do tempo e obter insights valiosos sobre a presença dos colaboradores em seus postos de trabalho.
+  </details> 
+  
+   <!-- Quem somos ->
+  <details>
+  <summary>
+   <h4 align="left">Quem somos</h4>  
+  </summary>
+  
+Na tela <b> Quem Somos </b> criamos um lugar que nos apresente. Nesse espaço, pode-se ver cada membro da equipe com suas redes sociais e descrição com função no projeto.
+  
+  </details> 
+  
+     <!-- Guia do Usuário -->
+  <details>
+  <summary>
+   <h4 align="left">Guia do Usuário</h4>  
+  </summary>
+A <b> Guia do Usuário </b> foi desenvolvida para ajudar nosso cliente a entender e utilizar todas as funcionalidades da nossa plataforma. Com ele, é possível aprender a como navegar pela plataforma - que já é intuitiva - como fazer o cadastro de usuários, emitir relatórios e utilizar todas as outras ferramentas disponíveis.
+<br><br>
+Nosso guia é simples e fácil de entender, com instruções passo a passo e imagens ilustrativas.
+  
+  </details> 
+
+
  <img src="../gifs/segundoSemestre.gif" width="720" height="420"> 
  
 > Gif da execução completa.
+
+<!--
 
 ## Requisitos 
 
