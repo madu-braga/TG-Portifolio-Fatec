@@ -9,34 +9,34 @@
 
 <br>
 
-<!--
+
 
 ## Sobre o projeto 
 
 <div align="justify">
-No primeiro semestre os próprios professores fizeram o papel de cliente. O tema desenvolvido foi a criação de um Website para uma ONG de cuidados infantis - Vó Maria Félix - com crianças na faixa etária entre 0 a 7 anos que teve por propósito facilitar o contato da instituição com os seus alunos e voluntários. 
+No terceiro semestre tivemos uma empresa parceira especializada no controle de contas (água, energia e gás) para terceiros.
 <br><br>
-Abaixo está a página "inicial" com o <i>chat</i> proposto para responder às dúvidas sobre a funcionalidade e a escola. Além de um carrossel com imagens da ONG e texto explicativo e, o menu de navegação com as opções: "Sobre Nós" - para saber mais da ONG - "Ajude" - para doações - "Projeto" - com os projetos feitos pela ONG -  "Cadastros" - para cadastro de voluntários e -  "Alunos" - com atividades para as crianças atendidas.
+Nosso objetivo era criar um sistema que ajudasse essa empresa a realizar a coletada e digitação de todos campos para, posteriormente, salvar em seu banco de dados para eventuais consultas e análises técnicas/financeiras desejassem.
 <br><br>
-As cores foram escolhidas para remeter a infância, um designer colorido para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo, pensando - principalmente - nas crianças da ONG que podem vir a usar e também em seus responsáveis. 
+As cores foram escolhidas para remeter a logo da empresa e gerar confiabilidade aos usuários. Um designer bem pensado para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo para os colaboradores que o utilizarão.
 <br><br>
-O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem mais do que o esperado e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
-<div><br>
+O cliente gostou bastante da entrega. Entregamos com excelência tudo que nos foi proposto e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
 
+<br><br>
 
 ## Telas
 
-<!-- Inicial --><!-- 
+
+<!-- Inicial -->
  <details>
   <summary>
-  <h4 align="left">Tela Inicial</h4>  
+  <h4 align="left">Tela Inicial com Login</h4>  
   </summary>
-    Optamos pela escolha do layout da <b> Tela Inicial </b> com 3 colunas. A principal com um carrossel, a segunda coluna com eventos e a outra com as notícias da ONG. Também desenvolvemos um chat para tirar dúvidas afim de proporcionar uma melhor experiência ao usuário e garantir que as informações mais importantes da organização estivessem acessíveis de forma fácil e intuitiva. <br><br>
-
-  Além disso, o chat de dúvidas oferece uma maneira fácil para os usuários entrarem em contato com a ONG para aumentar o engajamento do usuário e a construir uma relação mais próxima com o público.
-  -->
-  </details>
-
+    Optamos pela escolha do layout da <b> Tela Inicial </b> com 2 colunas para proporcionar uma melhor experiência ao usuário. A coluna principal contém uma imagem de destaque que representa o propósito da plataforma e a segunda coluna possui o campo de login para que apenas usuários autentificados tenham acesso aos recursos disponíveis. 
+    <br> <br>
+    Essa medida de segurança é necessária para garantir a privacidade dos dados dos usuários e oferecer uma navegação mais confiável e eficiente. Além disso, desenvolvemos um website intuitivo para facilitar a utilização da plataforma desde a primeira interação.
+    
+<!--
 
 <!-- Sobre Nós 
   <details>
@@ -87,23 +87,38 @@ A tela <b> Login </b> foi criada para permitir a autenticação de usuários Adm
 Essa tela foi fundamental para garantir que apenas usuários autorizados tenham acesso às informações e recursos da plataforma, além de permitir uma melhor organização e gerenciamento dos conteúdos postados pela ONG. Foi pensada também em fornecer as informações na tela de maneira intuitiva para uma melhor experiência ao usuário.
   
   </details>-->
-<!--
- <img src="../gifs/primeiroSemestre.gif" width="720" height="420"> 
- 
+
+  </details>
+
+  <div width="100%">
+    <div width="50%" align="left" margin-left="1px"><img src="../gifs/terceiroSemestre_1.gif" width="49%" align="left"></div>
+    <div width="50%" align="right" margin-left="1px" ><img src="../gifs/terceiroSemestre_2.gif"  width="49%" align="right"></div>
+  </div>
+
+
+<br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br>
 > Gif da execução completa.
+
+<br>
 
 ## Requisitos 
 
 **Funcionais:**<br>
-✔️ Cadastro de Participantes;<br>
-✔️ Cadastro de Voluntários (Voluntário Específico e Voluntário de Apoio);<br>
-✔️ Cadastro de Projetos.<br>
+✔️ Cadastros de Unidades, Concessionárias, Contratos; <br>
+✔️ Cadastro do usuário e seus perfis (administrador, gestor e digitador); <br>
+✔️ Cadastro (digitação) da conta de água, energia e gás; <br>
+✔️ Registro de log de operações (cadastro e deleção); <br>
+✔️ Relatório de consumo total de água mensal, anual e média; <br>
+✔️ Geração de alertas de consumo acima da média (a média pode ser definida no cadastro do contrato).
+
 <br>
+
 **Não Funcionais**<br>
-✔️ Todos os conteúdos devem ser de autoria própria;<br>
-✔️ Site de caráter institucional.<br>
+✔️ Prezar pelo UX da tela de digitação das contas; <br>
+✔️ Incluir atalhos no teclado; <br>
+✔️ Permitir navegação entre campos por TAB ou seta.
 <br>
-> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/DeskwarePI/API-VoMariaFelix).
+> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/NewInoDevs/NewInoDevsx).
 
 <br>
 
@@ -122,14 +137,15 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
    <h4 align="left">Back-end </h4>  
   
-  - **PHP:** Utilizamos para manipular o Banco de Dados
-  - **JavaScript:** Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
+  - **Java:** Utilizamos para manipular o Banco de Dados;
+  - **Spring:** Utilizamos para facilitar o desenvolvimento da aplicação
   
    <h4 align="left">Front-end </h4>  
  
   - **HTML5:** Para marcar nosso layout e importar os componentes do website; 
   - **CSS3:** Para estilizar nosso site;
-  - **JavaScript:** Para as animações em nosso site e interações com o usuário, como o Chat e o Carrossel.
+  - **JavaScript:** Utilizamos para criar animações em nosso Website;
+  - **Bootstrap:** Utilizamos para facilitar a criação do frontend.
   
    <h4 align="left">Outros</h4>  
  
@@ -141,27 +157,24 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclusão da entrega. Por já ter tido embasamento técnico, não houve dificuldade alguma na aplicação do nosso protótipo para as linguagens - HTML5 e CSS3. Também utilizamos recursos de JavaScript para criação de um ChatBot responsivo. Auxiliei em cada fase do projeto e em cada página - resolvendo eventuais eventuais falhas com o restante do time e ficando disponível para ajudar com qualquer tarefa. Organizamos juntos corretamente as pastas e atendemos mais que o proposto. Além disso, dividimos os times em subgrupos para cada um deles entregar as páginas e juntos termos todo Website navegável. Buscamos - mesmo sendo a primeira entrega - o valor do MVP e aplicamos recursos de UX designer.
+Neste projeto fui <b>Product Owner</b>. Compreendi a necessidade do cliente e repassei ao time. Além disso, minha função envolveu a definição e gerenciamento das user stories e do backlog, bem como a compreensão clara do MVP (Minimum Viable Product) de cada entrega. Trabalhei próxima ao time de desenvolvimento para garantir que o trabalho estivesse sempre alinhado com as necessidades do cliente e as prioridades do projeto. Cuidei também para que o cliente estivesse ciente de quaisquer mudanças ou ajustes necessários, a fim de garantir a transparência e a confiança em nosso trabalho
 <div>
 
 ## Hard Skills
 - **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;<br>
-- **Conceitos inicias de arquitetura de software:** Sei fazer com ajuda; <br>
-- **Manipulação do backend com o PHP:** Sei fazer com auxílio de consultas; <br>
+- **Habilidade em gerenciamento de backlog:** Sei fazer com autonomia;<br>
+- **Criação de Wireframe com Figma:** Sei fazer com autonomia; <br>
+- **Habilidade de gerenciar o escopo do projeto:** Sei fazer com autonomia; <br>
 - **Utilização do MySQL como Banco de Dados:** Sei fazer com auxílio de consultas; <br>
-- **Manipulação de entradas com Javascript:** Sei fazer com autonomia; <br>
+- **Manipulação de entradas com Java:** Sei fazer com auxílio de consultas;<br>
 - **Dominio de HTML5:** Sei fazer com autonomia; <br>
 - **Dominio de CSS3:** Sei fazer com autonomia; <br>
-- **Edição de imagens com Canva:** Sei fazer com autonomia; <br>
-- **Criação de Wireframe com Figma:** Sei fazer com autonomia. <br>
+- **Edição de imagens com Canva:** Sei fazer com autonomia. 
 
 ## Soft Skills
- - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva; <br>
- - **Aprendizagem ativa:** Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado; <br>
- - **Planejamento:** Lidei bem com o Backlog para realizar bem as entregas dentro de cada sprint; <br>
+ - **Comunicação eficaz:** Comuniquei-me de forma clara e assertiva; <br>
+ - **Planejamento:** Gerenciei o Backlog para realizar bem as entregas dentro de cada sprint; <br>
  - **Organização:** Entreguei tudo de forma bem organizada e clara; <br>
- - **Autonomia:** Consegui realizar bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
+ - **Autonomia:** Realizei bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
  - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
  - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
- 
- -->
