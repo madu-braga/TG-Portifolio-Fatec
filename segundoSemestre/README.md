@@ -28,7 +28,7 @@ O cliente gostou bastante da entrega. Desenvolvemos bem tudo que foi proposto e 
   <summary>
   <h4 align="left">Tela Inicial com Login</h4>  
   </summary>
-    Optamos pela escolha do layout da <b> Tela Inicial </b> com 2 colunas para proporcionar uma melhor experiência ao usuário. A coluna principal contém uma imagem de destaque que representa o propósito da plataforma e a segunda coluna possui o campo de login para que apenas usuários autenticados tenham acesso aos recursos disponíveis. 
+    Optamos pela escolha do layout da <b> Tela Inicial </b> com 2 colunas para proporcionar uma melhor experiência ao usuário. A coluna principal contém uma imagem de destaque que representa o propósito da plataforma e a segunda coluna possui o campo de login para que apenas usuários autentificado tenham acesso aos recursos disponíveis. 
     <br> <br>
     Essa medida de segurança é necessária para garantir a privacidade dos dados dos usuários e oferecer uma navegação mais confiável e eficiente. Além disso, desenvolvemos um website intuitivo para facilitar a utilização da plataforma desde a primeira interação.
     
