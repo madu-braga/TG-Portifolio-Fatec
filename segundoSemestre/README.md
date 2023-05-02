@@ -48,7 +48,6 @@ Com essa implementação, os gestores terão acesso a dados atualizados e precis
   </details>
 
   <!-- Controle de Pefis -->
-  
   <details>
   <summary>
    <h4 align="left">Controle de Pefis</h4>  
@@ -85,7 +84,6 @@ Desenvolvemos um sistema de geração de relatórios automatizado que extrai inf
   </details> 
    
    <!-- Histórico de relatórios -->
-  
   <details>
   <summary>
    <h4 align="left">Histórico de Relatórios</h4>  
@@ -93,7 +91,7 @@ Desenvolvemos um sistema de geração de relatórios automatizado que extrai inf
 Atráves da tela <b> Histórico de Relatórios </b> os usuários têm acesso ao histórico de relatórios gerados pela plataforma. É possível visualizar os últimos relatórios e suas análises de forma fácil e rápida. Com o histórico de relatórios, os usuários podem comparar os resultados ao longo do tempo e obter insights valiosos sobre a presença dos colaboradores em seus postos de trabalho.
   </details> 
   
-     <!-- Guia do Usuário -->
+  <!-- Guia do Usuário -->
   <details>
   <summary>
    <h4 align="left">Guia do Usuário</h4>  
