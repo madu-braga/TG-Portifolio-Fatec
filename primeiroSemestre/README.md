@@ -16,7 +16,7 @@ No primeiro semestre os próprios professores fizeram o papel de cliente. O tema
 <br><br>
 As cores foram escolhidas para remeter a infância, um designer colorido para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo, pensando - principalmente - nas crianças da ONG que podem vir a usar e também em seus responsáveis. 
 <br><br>
-O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem mais do que o esperado e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
+O cliente se surpreendeu de maneira positiva com a entrega. Desenvolvemos bem mais do que o esperado e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito! 
 <div><br>
 
 
