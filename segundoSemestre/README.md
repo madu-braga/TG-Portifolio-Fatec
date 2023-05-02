@@ -93,16 +93,6 @@ Desenvolvemos um sistema de geração de relatórios automatizado que extrai inf
 Atráves da tela <b> Histórico de Relatórios </b> os usuários têm acesso ao histórico de relatórios gerados pela plataforma. É possível visualizar os últimos relatórios e suas análises de forma fácil e rápida. Com o histórico de relatórios, os usuários podem comparar os resultados ao longo do tempo e obter insights valiosos sobre a presença dos colaboradores em seus postos de trabalho.
   </details> 
   
-   <!-- Quem somos ->
-  <details>
-  <summary>
-   <h4 align="left">Quem somos</h4>  
-  </summary>
-  
-Na tela <b> Quem Somos </b> criamos um lugar que nos apresente. Nesse espaço, pode-se ver cada membro da equipe com suas redes sociais e descrição com função no projeto.
-  
-  </details> 
-  
      <!-- Guia do Usuário -->
   <details>
   <summary>
@@ -118,8 +108,6 @@ Nosso guia é simples e fácil de entender, com instruções passo a passo e ima
  <img src="../gifs/segundoSemestre.gif" width="720" height="420"> 
  
 > Gif da execução completa.
-
-<!--
 
 ## Requisitos 
 
