@@ -144,7 +144,7 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclusão da entrega. Por já ter tido embasamento técnico, não houve dificuldade alguma na aplicação do nosso protótipo para as linguagens - HTML5 e CSS3. Também utilizamos recursos de JavaScript para criação de um ChatBot responsivo. Auxiliei em cada fase do projeto e em cada página - resolvendo eventuais eventuais falhas com o restante do time e ficando disponível para ajudar com qualquer tarefa. Organizamos juntos corretamente as pastas e atendemos mais que o proposto. Além disso, dividimos os times em subgrupos para cada um deles entregar as páginas e juntos termos todo Website navegável. Buscamos - mesmo sendo a primeira entrega - o valor do MVP e aplicamos recursos de UX designer.
+Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclusão da entrega. Por já ter tido embasamento técnico, não houve dificuldade alguma na aplicação do nosso protótipo para as linguagens - HTML5 e CSS3. Também utilizamos recursos de JavaScript para criação de um ChatBot responsivo. Auxiliei em cada fase do projeto e em cada página - resolvendo eventuais falhas com o restante do time e ficando disponível para ajudar com qualquer tarefa. Organizamos juntos corretamente as pastas e atendemos mais que o proposto. Além disso, dividimos os times em subgrupos para cada um deles entregar as páginas e juntos termos todo Website navegável. Buscamos - mesmo sendo a primeira entrega - o valor do MVP e aplicamos recursos de UX designer.
 <div>
 
 ## Hard Skills
