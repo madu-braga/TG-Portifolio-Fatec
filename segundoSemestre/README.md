@@ -118,7 +118,7 @@ Nosso guia é simples e fácil de entender, com instruções passo a passo e ima
 ✔️ Todos os conteúdos devem ser de autoria própria;<br>
 ✔️ Site de caráter institucional.<br>
 <br>
-> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/DeskwarePI/API-VoMariaFelix).
+> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/Inodevs).
 
 <br>
 
