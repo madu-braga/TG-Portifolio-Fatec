@@ -36,57 +36,66 @@ O cliente gostou bastante da entrega. Entregamos com excelência tudo que nos fo
     <br> <br>
     Essa medida de segurança é necessária para garantir a privacidade dos dados dos usuários e oferecer uma navegação mais confiável e eficiente. Além disso, desenvolvemos um website intuitivo para facilitar a utilização da plataforma desde a primeira interação.
     
-<!--
-
-<!-- Sobre Nós 
+  </details>
+  
+<!-- Tabela de Contas -->
   <details>
   <summary>
-   <h4 align="left">Tela Sobre Nós</h4>  
+   <h4 align="left">Tabela de Contas</h4>  
   </summary>
   
-A tela <b> Sobre Nós </b> foi criada com o propósito de informar os usuários sobre a história da ONG, seu propósito e sua transparência em relação às suas atividades e financiamentos. Através dessa tela, os usuários podem conhecer mais sobre a organização e entender seus objetivos e valores, o que ajuda a construir uma relação de confiança com o público. <br>
-
-Além disso, enfatizamos a transparência da ONG em relação às suas atividades e financiamentos, a fim de transmitir uma imagem de credibilidade e confiança para os usuários. Por isso, a tela "Sobre Nós" foi desenvolvida de forma clara e objetiva, com informações relevantes e de fácil acesso para os usuários, permitindo que eles conheçam a fundo a organização e sua missão com imagens para tornar tudo mais claro em uma coluna única.
+A <b>Tabela de Contas</b> lista todas as contas coletadas pela empresa (água, energia e fás) e permite filtragem, busca e exportação dos dados. Uma vez que o usuário encontra a conta desejada, é possível acessar todas as informações digitadas no momento da coleta, como nome do cliente, endereço, consumo de energia, água ou gás, entre outras informações. <br> <br>
+Para tornar a página de Tabela de Contas mais interativa e atraente, optamos por utilizar uma interface visual intuitiva e de fácil navegação. Utilizamos elementos gráficos como cores, ícones e botões para destacar as funcionalidades da página e facilitar a compreensão dos usuários.
   
-  </details>-->
+  </details>
 
-  <!-- Ajude
-  
-  <details>
+<!-- Dashboard -->  
+ <details>
   <summary>
-   <h4 align="left">Tela Ajude</h4>  
+   <h4 align="left">Dashboard</h4>  
   </summary>
   
-Na tela <b> Ajude </b> criamos um lugar dedicado para a realização de doações. Nós sabemos que muitos usuários podem estar interessados em ajudar a ONG de alguma forma, e por isso, quisemos tornar esse processo o mais simples e fácil possível. <br>
+A página <b> Dashboard </b>  é uma das páginas mais importantes da plataforma e apresenta informações de maneira visual e interativa. Utilizamos cores vibrantes e recursos gráficos para destacar as informações relevantes e proporcionar uma experiência mais agradável e intuitiva para os usuários.
 
-Nessa tela, os usuários podem encontrar informações sobre como fazer doações e também uma área para preencher seus dados e efetivar a doação. Com essa tela, esperamos incentivar mais pessoas a contribuírem com a ONG e tornar o processo de doação mais acessível para todos em uma coluna única.
+Ao clicar em uma unidade específica, a plataforma apresenta informações detalhadas sobre o consumo e despesas do contrato com a concessionária, além de alertas automáticos em caso de consumo elevado. Além disso, é possível gerar relatórios em PDF com os dados exibidos na página, tornando a análise mais ágil e prática.
   
-  </details> -->
-<!--
-  <details>
-      Projeto 
+  </details> 
+
+<!-- Cadastro -->
+
+ <details> 
   <summary>
-   <h4 align="left">Tela Projetos</h4>  
+   <h4 align="left">Cadastro </h4>  
   </summary>
  
-Para a tela <b> Projetos </b>, optamos por apresentar uma visualização clara e organizada de todos os projetos realizados pela ONG. Cada projeto possui uma foto e uma descrição detalhada, permitindo que o usuário entenda facilmente o que cada projeto representa e como ele pode contribuir.
+A tela de <b> Cadastro </b> temos alguns formulários que foram desenvolvidos com uma interface clara e objetiva, afim de facilitar o preenchimento dos dados e garantindo a integridade das informações. Temos nessa página diferentes opções de formulários para cadastrar contas, concessionárias, unidades e contratos, que são organizados de forma intuitiva e prática para facilitar a navegação.
+<br><br>
+É a partir desse cadastro que definimos as rotas de cada perfil. Nosso login explicado acima possui autentificação e cada usuário só terá acesso as telas necessárias para seu trabalho, seja ele Digitador - quem escreverá as contas - Gestor - quem as aprovará - ou Administrador - quem tem controle de tudo na plataforma.
 
-Além disso, adicionamos uma aba de busca para tornar mais fácil para os usuários encontrar projetos específicos que possam ser de seu interesse. Dessa forma, garantimos que o usuário possa explorar facilmente a variedade de projetos realizados pela ONG e encontrar maneiras de se envolver e contribuir para a causa em uma coluna única.
-  </details> -->
+ </details>
 
    
-   
- <!-- <details>
-       login 
+<!-- Histórico  -->
+ <details>
   <summary>
-   <h4 align="left">Tela Login</h4>  
+   <h4 align="left">Histórico</h4>  
   </summary>
   
-A tela <b> Login </b> foi criada para permitir a autenticação de usuários Admin, que tivessem acesso privilegiado para editar as informações postadas na plataforma. Além disso, essa tela também foi desenvolvida também para os alunos que puderam acessar materiais de auxílio e outras informações relevantes. <br>
-
-Essa tela foi fundamental para garantir que apenas usuários autorizados tenham acesso às informações e recursos da plataforma, além de permitir uma melhor organização e gerenciamento dos conteúdos postados pela ONG. Foi pensada também em fornecer as informações na tela de maneira intuitiva para uma melhor experiência ao usuário.
+Na tela <b> Histórico </b> é possível encontrar informações detalhadas sobre quais dados de cadastro foram adicionados, alterados ou excluídos, juntamente com o nome do usuário responsável e a data em que a ação foi realizada. Essa funcionalidade garante maior transparência e controle sobre as operações realizadas no sistema, permitindo uma melhor análise e rastreamento de qualquer alteração ou atualização feita no banco de dados.
   
-  </details>-->
+  </details>
+
+<!-- Perfis  -->
+<details>
+  <summary>
+   <h4 align="left">Perfis</h4>  
+  </summary>
+  
+A página de <b> Perfis </b> é onde os administradores da plataforma podem gerenciar os usuários e suas permissões de acesso. É possível visualizar, cadastrar, editar e excluir usuários. Através dessa página, é possível definir qual usuário será um digitador, responsável por inserir as contas, um gestor, que irá aprovar as contas ou um administrador, com acesso total à plataforma. A página também possui uma opção para redefinir as senhas dos usuários, caso necessário. Tudo isso é feito de forma intuitiva e fácil de usar, para garantir um bom gerenciamento dos usuários e permissões.
+  
+  </details>
+
+
 
   </details>
 
