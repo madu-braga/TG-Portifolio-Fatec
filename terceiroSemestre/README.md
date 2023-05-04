@@ -118,7 +118,7 @@ Essa tela foi fundamental para garantir que apenas usuários autorizados tenham 
 ✔️ Incluir atalhos no teclado; <br>
 ✔️ Permitir navegação entre campos por TAB ou seta.
 <br>
-> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/NewInoDevs/NewInoDevsx).
+> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/NewInoDevs/NewInoDevs).
 
 <br>
 
