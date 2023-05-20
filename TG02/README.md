@@ -168,8 +168,7 @@ Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclu
 
 ## Soft Skills
  - **Autonomia:** Consegui realizar bem as tarefas propostas e em quais tive dificuldade, aprendi com autonomia. Como por exemplo, a criação de nosso Chat; <br>
- - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
- - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
- - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva; <br>
- - **Planejamento:** Lidei bem com o Backlog para realizar bem as entregas dentro de cada sprint; <br>
- - **Organização:** Entreguei tudo de forma bem organizada e clara; <br>
+ - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor e agradamos o cliente com os prazos/entregas; <br>
+ - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva. Entendi rápido a proposta e pude realizar a modelagem de dados para exemplificar; <br>
+ - **Planejamento:** Lidei bem com o Backlog para realizar bem minhas entregas dentro de cada sprint; <br>
+ - **Organização:** Entreguei tudo - seja código ou não - de forma bem organizada e clara; <br>
