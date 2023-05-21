@@ -9,7 +9,6 @@
 
 <br>
 
-
 ## Sobre o projeto 
 
 <div align="justify">
@@ -168,7 +167,7 @@ Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclu
 - **Criação de Wireframe com Figma:** Sei fazer com autonomia. <br>
 
 ## Soft Skills
- - **Autonomia:** Consegui realizar bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
+ - **Autonomia:** Consegui realizar bem as tarefas propostas e em quais tive dificuldade, aprendi com autonomia. Como por exemplo, a criação de nosso Chat; <br>
  - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
  - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
  - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva; <br>
