@@ -158,7 +158,6 @@ Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclu
 ## Soft Skills
  - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva para passar os conhecimentos que já tinha e também para entendermos o que o cliente precisava; <br>
  - **Aprendizagem ativa:** Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado. Como a parte técnica não me exigiu muito nesse primeiro semestre, pude aproveitar para entender como melhorar a experiência do usuário (UX/UI); <br>
- - **Organização:** Soube me autogerenciar para atendar a minhas tarefas e auxiliar nas entregas referentes a cada sprint; <br>
+ - **Organização:** Soube me autogerenciar para realizar as minhas tarefas e auxiliar nas entregas referentes a cada sprint; <br>
  - **Criatividade:** Ajudei na criação do protótipo de maneira criativa e ativa. Aprendi ferramentas novas e pude auxiliar na criação de nosso Website; <br>
- - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. Como as tecnologias que já havia estudado anteriormente. <br>
- 
+ - **Colaboração:** Todos se auxiliaram. Ajudei em tudo que pude e ensinei o que sabia, por exemplo, as tecnologias que já havia estudado anteriormente. <br>
