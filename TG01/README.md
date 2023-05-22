@@ -86,7 +86,6 @@ Essa tela foi fundamental para garantir que apenas usuários autorizados tenham 
     <div width="50%" align="right" margin-left="1px" ><img src="../gifs/primeiroSemestre_2.gif"  width="49%" align="right"></div>
   </div>
 
-
 <br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br>
 > Gif da execução completa.
 
