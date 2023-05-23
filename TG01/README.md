@@ -46,8 +46,7 @@ Além disso, enfatizamos a transparência da ONG em relação às suas atividade
   
   </details>
 
-  <!-- Ajude -->
-  
+  <!-- Ajude --> 
   <details>
   <summary>
    <h4 align="left">Tela Ajude</h4>  
@@ -69,9 +68,7 @@ Para a tela <b> Projetos </b>, optamos por apresentar uma visualização clara e
 
 Além disso, adicionamos uma aba de busca para tornar mais fácil para os usuários encontrar projetos específicos que possam ser de seu interesse. Dessa forma, garantimos que o usuário possa explorar facilmente a variedade de projetos realizados pela ONG e encontrar maneiras de se envolver e contribuir para a causa em uma coluna única.
   </details>
-
-   
-   
+ 
   <details>
       <!-- login -->
   <summary>
@@ -159,11 +156,9 @@ Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclu
 - **Criação de Wireframe com Figma:** Sei fazer com autonomia. <br>
 
 ## Soft Skills
- - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva; <br>
- - **Aprendizagem ativa:** Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado; <br>
- - **Planejamento:** Lidei bem com o Backlog para realizar bem as entregas dentro de cada sprint; <br>
- - **Organização:** Entreguei tudo de forma bem organizada e clara; <br>
- - **Autonomia:** Consegui realizar bem as atividades e em quais tive dificuldade, aprendi com autonomia; <br>
- - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor; <br>
- - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. <br>
+ - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva para passar os conhecimentos que já tinha e também para entendermos o que o cliente precisava; <br>
+ - **Aprendizagem ativa:** Busquei sempre aprender até nas tecnologias que dominava para entregar o melhor resultado. Como a parte técnica não me exigiu muito nesse primeiro semestre, pude aproveitar para entender como melhorar a experiência do usuário (UX/UI); <br>
+ - **Organização:** Soube me autogerenciar para atendar a minhas tarefas e auxiliar nas entregas referentes a cada sprint; <br>
+ - **Criatividade:** Ajudei na criação do protótipo de maneira criativa e ativa. Aprendi ferramentas novas e pude auxiliar na criação de nosso Website; <br>
+ - **Colaboração:** Todos se auxiliaram, ajudei em tudo que pude e ensinei o que sabia. Como as tecnologias que já havia estudado anteriormente. <br>
  
