@@ -27,7 +27,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  | [2° Semestre](https://github.com/madu-braga/TG_Portifolio_Fatec/tree/main/TG02)   | CRUD para uma empresa de software gerir o quadro de presenças  | 
  | [3° Semestre](https://github.com/madu-braga/TG_Portifolio_Fatec/tree/main/TG03)   | Sistema para processar e armazenar contas de diversos setores        | 
  | [4° Semestre](https://github.com/madu-braga/TG-Portifolio-Fatec/tree/main/TG04)   | Website para controle da jornada de trabalho dos colaboradores     | 
- | [5° Semestre](https://github.com/madu-braga/TG-Portifolio-Fatec/tree/main/quintoSemestre)   | Sistema híbrido de Serviço de Atendimento ao Cliente        |
+ | [5° Semestre](https://github.com/madu-braga/TG-Portifolio-Fatec/tree/main/TG05)   | Sistema híbrido de Serviço de Atendimento ao Cliente        |
 
 > _Clique em uma opção acima para ser direcionado a pasta referente a entrega._
  
