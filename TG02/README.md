@@ -169,4 +169,4 @@ Neste projeto fui <b>desenvolvedora </b> e pude contribuir bastante com a conclu
  - **Gestão de tempo:** Boa manipulação do burndown, lidamos com o tempo a nosso favor e agradamos o cliente com os prazos/entregas; <br>
  - **Comunicação eficaz:** Soube me comunicar de forma clara e assertiva. Entendi rápido a proposta e pude realizar a modelagem de dados para exemplificar; <br>
  - **Planejamento:** Lidei bem com o Backlog para realizar bem minhas entregas dentro de cada sprint; <br>
- - **Organização:** Entreguei tudo - seja código ou não - de forma bem organizada e clara; <br>
+ - **Organização:** Entreguei tudo - seja código ou não - de forma bem organizada e clara. <br>
