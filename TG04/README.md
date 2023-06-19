@@ -93,7 +93,7 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
 <!-- Login  -->
 <details>
   <summary>
-   <h4 align="left">Perfis</h4>  
+   <h4 align="left">Tela de Login</h4>  
   </summary>
   
 Na página de <b> Login </b> ocorre toda a autentificação do usuário com o direcionamento para as páginas corretas a partir de seu nível de acesso. Buscamos utilizar aqui também as cores principais da marca, como o azul e o branco, de forma a tornar a experiência mais agradável para os usuários do sistema.
