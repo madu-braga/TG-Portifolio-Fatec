@@ -14,14 +14,14 @@
 ## Sobre o projeto 
 
 <div align="justify">
-No terceiro semestre tivemos uma empresa parceira especializada no controle de contas (água, energia e gás) para terceiros.
+No quarto semestre fizemos um Website para controle da jornada de trabalho dos colaboradores.
 <br><br>
-Nosso objetivo era criar um sistema que ajudasse essa empresa a realizar a coletada e digitação de todos campos para, posteriormente, salvar em seu banco de dados para eventuais consultas e análises técnicas/financeiras desejassem.
+Desenvolvemos um sistema completo, que permitiu o controle da jornada de trabalho de forma detalhada, armazenando-os em um banco de dados para consultas e análises futuras.
 <br><br>
-As cores foram escolhidas para remeter a logo da empresa e gerar confiabilidade aos usuários. Um designer bem pensado para combinar com o foco do projeto. O Website que foi desenvolvido também é intuitivo para os colaboradores que o utilizarão.
+Ao projetar o Website, dedicamos especial atenção ao design, selecionando cores que remetiam à identidade visual da empresa. Isso não apenas criou uma conexão visual com a marca, mas também transmitiu confiabilidade aos usuários. Além disso, o design foi cuidadosamente elaborado para combinar com o propósito do projeto, resultando em um ambiente intuitivo e amigável para os colaboradores que o utilizam.
 <br><br>
-O cliente gostou bastante da entrega. Entregamos com excelência tudo que nos foi proposto e usamos bem as tecnologias solicitadas. Uma entrega realizada com êxito!
-
+Estamos satisfeitos em compartilhar que a entrega do projeto foi extremamente bem recebida pelo cliente. Com excelência, cumprimos todas as metas e utilizamos as tecnologias solicitadas de forma eficiente!
+  
 <br><br>
 
 ## Telas
@@ -30,22 +30,41 @@ O cliente gostou bastante da entrega. Entregamos com excelência tudo que nos fo
 <!-- Inicial -->
  <details>
   <summary>
-  <h4 align="left">Tela Inicial com Login</h4>  
+  <h4 align="left">Tela Inicial</h4>  
   </summary>
-    Optamos pela escolha do layout da <b> Tela Inicial </b> com 2 colunas para proporcionar uma melhor experiência ao usuário. A coluna principal contém uma imagem de destaque que representa o propósito da plataforma e a segunda coluna possui o campo de login para que apenas usuários autentificados tenham acesso aos recursos disponíveis. 
+  Após realizar o login, o usuário será redirecionado para a <b>página Home</b>, onde encontrará informações relevantes sobre seus últimos apontamentos e as horas trabalhadas. Projetamos essa página para fornecer um resumo claro e conciso das atividades registradas.
     <br> <br>
-    Essa medida de segurança é necessária para garantir a privacidade dos dados dos usuários e oferecer uma navegação mais confiável e eficiente. Além disso, desenvolvemos um website intuitivo para facilitar a utilização da plataforma desde a primeira interação.
+  Além disso, disponibilizamos botões intuitivos que direcionam o usuário para as páginas de apontamento de horas e visualização dos apontamentos. Essa abordagem simplifica o processo de registro e consulta das informações, tornando a experiência mais eficiente e conveniente para os colaboradores.
     
   </details>
-  
-<!-- Tabela de Contas -->
+
+<!-- Páginas de Usuários -->
   <details>
   <summary>
-   <h4 align="left">Tabela de Contas</h4>  
+   <h4 align="left">Páginas de Usuários</h4>  
   </summary>
+
+Na página de <b>Usuários</b>, é possível visualizar uma lista completa dos usuários cadastrados, bem como adicionar novos usuários e editar informações existentes. Essa funcionalidade permite um controle eficiente sobre as contas de acesso e a gestão dos colaboradores da empresa.
   
-A <b>Tabela de Contas</b> lista todas as contas coletadas pela empresa (água, energia e fás) e permite filtragem, busca e exportação dos dados. Uma vez que o usuário encontra a conta desejada, é possível acessar todas as informações digitadas no momento da coleta, como nome do cliente, endereço, consumo de energia, água ou gás, entre outras informações. <br> <br>
-Para tornar a página de Tabela de Contas mais interativa e atraente, optamos por utilizar uma interface visual intuitiva e de fácil navegação. Utilizamos elementos gráficos como cores, ícones e botões para destacar as funcionalidades da página e facilitar a compreensão dos usuários.
+  </details>
+
+<!-- Centros de Resultados -->
+  <details>
+  <summary>
+   <h4 align="left">Centros de Resultados</h4>  
+  </summary>
+
+Na página de <b>Centros de Resultados</b>, é possível visualizar e gerenciar os centros de resultados cadastrados. Através dessa página, é possível adicionar novos centros de resultados, bem como modificar as informações existentes, garantindo uma gestão eficaz desses elementos importantes para a empresa.
+  
+  </details>
+
+<!-- Projetos -->
+  <details>
+  <summary>
+   <h4 align="left">Tela de Projetos</h4>  
+  </summary>
+
+Da mesma forma, a página de <b>Projetos</b> oferece uma visão geral dos projetos em andamento, permitindo a inclusão de novos projetos e a edição das informações existentes. Isso facilita o gerenciamento e o acompanhamento do progresso dos projetos em diferentes etapas.
   
   </details>
 
@@ -57,33 +76,9 @@ Para tornar a página de Tabela de Contas mais interativa e atraente, optamos po
   
 A página <b> Dashboard </b>  é uma das páginas mais importantes da plataforma e apresenta informações de maneira visual e interativa. Utilizamos cores vibrantes e recursos gráficos para destacar as informações relevantes e proporcionar uma experiência mais agradável e intuitiva para os usuários.
 
-Ao clicar em uma unidade específica, a plataforma apresenta informações detalhadas sobre o consumo e despesas do contrato com a concessionária, além de alertas automáticos em caso de consumo elevado. Além disso, é possível gerar relatórios em PDF com os dados exibidos na página, tornando a análise mais ágil e prática.
+Ao clicar em uma unidade específica, a plataforma apresenta informações detalhadas sobre as horas trabalhadas. Além disso, é possível gerar relatórios em PDF com os dados exibidos na página, tornando a análise mais ágil e prática.
   
   </details> 
-
-<!-- Cadastro -->
-
- <details> 
-  <summary>
-   <h4 align="left">Cadastro </h4>  
-  </summary>
- 
-A tela de <b> Cadastro </b> temos alguns formulários que foram desenvolvidos com uma interface clara e objetiva, afim de facilitar o preenchimento dos dados e garantindo a integridade das informações. Temos nessa página diferentes opções de formulários para cadastrar contas, concessionárias, unidades e contratos, que são organizados de forma intuitiva e prática para facilitar a navegação.
-<br><br>
-É a partir desse cadastro que definimos as rotas de cada perfil. Nosso login explicado acima possui autentificação e cada usuário só terá acesso as telas necessárias para seu trabalho, seja ele Digitador - quem escreverá as contas - Gestor - quem as aprovará - ou Administrador - quem tem controle de tudo na plataforma.
-
- </details>
-
-   
-<!-- Histórico  -->
- <details>
-  <summary>
-   <h4 align="left">Histórico</h4>  
-  </summary>
-  
-Na tela <b> Histórico </b> é possível encontrar informações detalhadas sobre quais dados de cadastro foram adicionados, alterados ou excluídos, juntamente com o nome do usuário responsável e a data em que a ação foi realizada. Essa funcionalidade garante maior transparência e controle sobre as operações realizadas no sistema, permitindo uma melhor análise e rastreamento de qualquer alteração ou atualização feita no banco de dados.
-  
-  </details>
 
 <!-- Perfis  -->
 <details>
@@ -95,17 +90,26 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
   
   </details>
 
+<!-- Login  -->
+<details>
+  <summary>
+   <h4 align="left">Perfis</h4>  
+  </summary>
+  
+Na página de <b> Login </b> ocorre toda a autentificação do usuário com o direcionamento para as páginas corretas a partir de seu nível de acesso. Buscamos utilizar aqui também as cores principais da marca, como o azul e o branco, de forma a tornar a experiência mais agradável para os usuários do sistema.
+  
+  </details>
+
 
 
   </details>
 
   <div width="100%">
-    <div width="50%" align="left" margin-left="1px"><img src="../gifs/terceiroSemestre_1.gif" width="49%" align="left"></div>
-    <div width="50%" align="right" margin-left="1px" ><img src="../gifs/terceiroSemestre_2.gif"  width="49%" align="right"></div>
+    <div><img src="../gifs/quartoSemestre[1].gif"></div>
   </div>
 
+<br>
 
-<br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br>
 > Gif da execução completa.
 
 <br>
