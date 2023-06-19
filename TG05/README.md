@@ -154,19 +154,18 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
  
    <h4 align="left">Data-base</h4>  
  
-   - **MySQL:** Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
+   - **MongoDB:** Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
 
    <h4 align="left">Back-end </h4>  
   
-  - **Java:** Utilizamos para manipular o Banco de Dados;
-  - **Spring:** Utilizamos para facilitar o desenvolvimento da aplicação
+  - **TypeScript:** Utilizamos como linguagem de programação para criação tanto da aplicação mobile quanto da web;
+  - **NodeJS:** Utilizamos para execução do JavaScript.
   
    <h4 align="left">Front-end </h4>  
- 
-  - **HTML5:** Para marcar nosso layout e importar os componentes do website; 
   - **CSS3:** Para estilizar nosso site;
   - **JavaScript:** Utilizamos para criar animações em nosso Website;
-  - **Bootstrap:** Utilizamos para facilitar a criação do frontend.
+  - **React:** Utilizamos para o desennvolvimento das interfaces gráficas nas páginas web;
+  - **React Native:** Utilizamos no desenvolvimento do sistemas Android e iOS de forma nativa;
   
    <h4 align="left">Outros</h4>  
  
@@ -178,22 +177,22 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto fui <b>Product Owner</b>. Compreendi a necessidade do cliente e repassei ao time. Além disso, minha função envolveu a definição e gerenciamento das user stories e do backlog, bem como a compreensão clara do MVP (Minimum Viable Product) de cada entrega. Trabalhei próxima ao time de desenvolvimento para garantir que o trabalho estivesse sempre alinhado com as necessidades do cliente e as prioridades do projeto. Cuidei também para que o cliente estivesse ciente de quaisquer mudanças ou ajustes necessários, a fim de garantir a transparência e a confiança em nosso trabalho
+Neste projeto fui <b>Master/b>. Compreendi a necessidade do meu time, controlei as tasks e o backlog. Além disso, realizei minhas tasks, como criação do termo e criação de outras telas. Busquei compreender junto ao PO o MVP de cada entrega e trabalhei bem próxima ao time de desenvolvimento para garantir que o trabalho estivesse sempre alinhado com as prioridades do projeto.
 <div>
 
 ## Hard Skills
 - **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;<br>
 - **Habilidade em gerenciamento de backlog:** Sei fazer com autonomia;<br>
+- **TypeScript:** Sei fazer com auxílio de consultas;<br>
+- **React Native:** Sei fazer com auxílio de consultas;<br>
+- **CSS3:** Sei fazer com autonomia;<br>
+- **React:** Sei fazer com auxílio de consultas;<br>
+- **NodeJS:** Sei fazer com auxílio de consultas; <br>
+- **MongoDB:** Sei fazer com auxílio de consultas; <br>
 - **Criação de Wireframe com Figma:** Sei fazer com autonomia; <br>
-- **Habilidade de gerenciar o escopo do projeto:** Sei fazer com autonomia; <br>
-- **Utilização do MySQL como Banco de Dados:** Sei fazer com auxílio de consultas; <br>
-- **Manipulação de entradas com Java:** Sei fazer com auxílio de consultas;<br>
-- **Dominio de HTML5:** Sei fazer com autonomia; <br>
-- **Dominio de CSS3:** Sei fazer com autonomia; <br>
-- **Edição de imagens com Canva:** Sei fazer com autonomia. 
+- **Habilidade de gerenciar o escopo do projeto:** Sei fazer com autonomia. <br>
 
 ## Soft Skills
- - **Comunicação eficaz:** Comuniquei-me de forma clara e assertiva com o time e o cliente - exerci bem meu papel de PO; <br>
- - **Planejamento:** Gerenciei bem o backlog do produto e a expectativa em nosso produto; <br>
- - **Organização:** Entreguei todas as minhas tarefas de maneira bem organizada e clara; <br>
- - **Produtividade:** Tive a iniciativa em nossas tarefas - como a criação da modelagem do banco de dados e estruturação do protótipo no Figma. <br>
+ - **Comunicação eficaz:** Comuniquei-me de forma clara e assertiva com o time dev, o PO e o cliente; - exerci bem meu papel de PO; <br>
+ - **Planejamento:** Como Master organizei bem o backlog e as tasks do time por sprint; <br>
+ - **Criatividade:** Desenvolvimento o pensamento criativo nas telas que criei e também na forma como solucionei os desafios que apareceram.<br>
