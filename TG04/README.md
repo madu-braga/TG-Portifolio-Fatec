@@ -112,7 +112,7 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
 
 ## Requisitos 
 
-**Funcionais:**
+**Funcionais:**<br>
 ✔️ Integração para consumo de dados;<br>
 ✔️ Integração com o login 2RP (SSO ou LDAP);<br>
 ✔️ Perfis de administrador, gestor e colaborador;<br>
@@ -128,7 +128,7 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
 
 <br>
 
-**Não Funcionais**<br>
+**Não Funcionais:**<br>
 ✔️ React; <br>
 ✔️ NodeJS; <br>
 ✔️ Responsividade.
