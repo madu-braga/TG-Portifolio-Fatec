@@ -112,22 +112,29 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
 
 ## Requisitos 
 
-**Funcionais:**<br>
-✔️ Cadastros de Unidades, Concessionárias, Contratos; <br>
-✔️ Cadastro do usuário e seus perfis (administrador, gestor e digitador); <br>
-✔️ Cadastro (digitação) da conta de água, energia e gás; <br>
-✔️ Registro de log de operações (cadastro e deleção); <br>
-✔️ Relatório de consumo total de água mensal, anual e média; <br>
-✔️ Geração de alertas de consumo acima da média (a média pode ser definida no cadastro do contrato).
+**Funcionais:**
+✔️ Integração para consumo de dados;<br>
+✔️ Integração com o login 2RP (SSO ou LDAP);<br>
+✔️ Perfis de administrador, gestor e colaborador;<br>
+✔️ Apontamento de horas extras e classificação das horas;<br>
+✔️ Lançamento de horas de sobreaviso;<br>
+✔️ Especificação de cliente, CR (centro de resultado), projeto, solicitante e justificativa;<br>
+✔️ Tela para cadastro de clientes e CRs;<br>
+✔️ Recurso para aprovação de horas extras executadas;<br>
+✔️ Tela de parametrização de sistema;<br>
+✔️ Extração de relatório csv de todos os colaboradores com as horas trabalhadas;<br>
+✔️ Aplicação das regras de horas extras e sobreavisos na extração;<br>
+✔️ Dashboards das horas extras executadas com filtro cliente, CR e colaborador.<br>
 
 <br>
 
 **Não Funcionais**<br>
-✔️ Prezar pelo UX da tela de digitação das contas; <br>
-✔️ Incluir atalhos no teclado; <br>
-✔️ Permitir navegação entre campos por TAB ou seta.
+✔️ React; <br>
+✔️ NodeJS; <br>
+✔️ Responsividade.
+  
 <br>
-> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/NewInoDevs/NewInoDevs).
+> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/Inodevs-4/2RP).
 
 <br>
 
