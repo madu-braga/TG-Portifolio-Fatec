@@ -76,7 +76,7 @@ Da mesma forma, a página de <b>Projetos</b> oferece uma visão geral dos projet
   
 A página <b> Dashboard </b>  é uma das páginas mais importantes da plataforma e apresenta informações de maneira visual e interativa. Utilizamos cores vibrantes e recursos gráficos para destacar as informações relevantes e proporcionar uma experiência mais agradável e intuitiva para os usuários.
 
-Ao clicar em uma unidade específica, a plataforma apresenta informações detalhadas sobre as horas trabalhadas. Além disso, é possível gerar relatórios em PDF com os dados exibidos na página, tornando a análise mais ágil e prática.
+Ao clicar em uma unidade específica, a plataforma apresenta informações detalhadas sobre as horas trabalhadas. 
   
   </details> 
 
