@@ -122,7 +122,7 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
 
 <br>
 
-**Não Funcionais**<br>
+**Não Funcionais:**<br>
 ✔️ Prezar pelo UX da tela de digitação das contas; <br>
 ✔️ Incluir atalhos no teclado; <br>
 ✔️ Permitir navegação entre campos por TAB ou seta.
