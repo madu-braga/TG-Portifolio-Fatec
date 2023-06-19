@@ -105,7 +105,7 @@ Na página de <b> Login </b> ocorre toda a autentificação do usuário com o di
   </details>
 
   <div width="100%">
-    <div><img src="../gifs/quartoSemestre[1].gif"></div>
+    <div><img src="../gifs/quartoSemestre[2].gif"></div>
   </div>
 
 <br>
