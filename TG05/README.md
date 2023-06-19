@@ -121,21 +121,25 @@ A <b>Página de Opções</b> oferece recursos adicionais de segurança, como a c
 ## Requisitos 
 
 **Funcionais:**<br>
-✔️ Cadastros de Unidades, Concessionárias, Contratos; <br>
-✔️ Cadastro do usuário e seus perfis (administrador, gestor e digitador); <br>
-✔️ Cadastro (digitação) da conta de água, energia e gás; <br>
-✔️ Registro de log de operações (cadastro e deleção); <br>
-✔️ Relatório de consumo total de água mensal, anual e média; <br>
-✔️ Geração de alertas de consumo acima da média (a média pode ser definida no cadastro do contrato).
+✔️ Área de Cliente e áreade Administrador, com controles de acesso (autenticação/autorização);<br>
+✔️ Opções de criar e acompanhar ROs;<br>
+✔️ Comunicação com os administradores do sistema via chat;<br>
+✔️ Atualização do Status das ROs em tempo real;<br>
+✔️ Envio de e-mail com notificações para o cliente e administradores;<br>
+✔️ Relatórios/gráficos de sumarização das ROs.<br>
 
 <br>
 
-**Não Funcionais**<br>
-✔️ Prezar pelo UX da tela de digitação das contas; <br>
-✔️ Incluir atalhos no teclado; <br>
-✔️ Permitir navegação entre campos por TAB ou seta.
+**Não Funcionais:**<br>
+✔️ Documentação com mapeamento das regras de negócio do cliente;<br>
+✔️ JavaScript;<br>
+✔️ TypeScript;<br>
+✔️ React;<br>
+✔️ ReactNative;<br>
+✔️ MongoDB;<br>
+✔️ Python.<br>
 <br>
-> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/NewInoDevs/NewInoDevs).
+> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/inodevs-5/Reportify_Doc).
 
 <br>
 
