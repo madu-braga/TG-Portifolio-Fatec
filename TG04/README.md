@@ -132,8 +132,9 @@ A página de <b> Perfis </b> é onde os administradores da plataforma podem gere
 ✔️ React; <br>
 ✔️ NodeJS; <br>
 ✔️ Responsividade.
-  
+
 <br>
+
 > O repositório oficial do projeto pode ser acessado [aqui](https://github.com/Inodevs-4/2RP).
 
 <br>
