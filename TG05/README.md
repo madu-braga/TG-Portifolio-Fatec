@@ -162,6 +162,7 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
   - **NodeJS:** Utilizamos para execução do JavaScript.
   
    <h4 align="left">Front-end </h4>  
+   
   - **CSS3:** Para estilizar nosso site;
   - **JavaScript:** Utilizamos para criar animações em nosso Website;
   - **React:** Utilizamos para o desennvolvimento das interfaces gráficas nas páginas web;
