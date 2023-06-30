@@ -178,7 +178,7 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto fui <b>Master/b>. Compreendi a necessidade do meu time, controlei as tasks e o backlog. Além disso, realizei minhas tasks, como criação do termo e criação de outras telas. Busquei compreender junto ao PO o MVP de cada entrega e trabalhei bem próxima ao time de desenvolvimento para garantir que o trabalho estivesse sempre alinhado com as prioridades do projeto.
+Neste projeto fui <b>Master</b>. Compreendi a necessidade do meu time, controlei as tasks e o backlog. Além disso, realizei minhas tasks, como criação do termo e criação de outras telas. Busquei compreender junto ao PO o MVP de cada entrega e trabalhei bem próxima ao time de desenvolvimento para garantir que o trabalho estivesse sempre alinhado com as prioridades do projeto.
 <div>
 
 ## Hard Skills
