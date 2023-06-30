@@ -10,7 +10,7 @@ Gosto muito de inovações, desafios e aprendizagem ativa. Tenho grande facilida
 <br><br>
 Já havia desenvolvido formalmente nessa área no ensino médio quando cursei o ETIM de Informática na ETEC de Caçapava - Machado de Assis, onde aprendi mais sobre programação. Além disso, já tinha contato em menor escala desde a infância quando por curiosidade, desenvolvia e aprendia.
 <br><br>
-Atualmente sou estágiaria na área Tech na Johnson & Johnson, onde contribuo com a saúde de nossos pacientes através da tecnologia. Além disso, desenvolvo minhas habilidades em back-end, front-end, nuvens, integrações, gerenciamento ágil e muito mais. 
+Atualmente sou estágiaria na área Tech da Johnson & Johnson, onde contribuo com a saúde de nossos pacientes através da tecnologia. Além disso, desenvolvo minhas habilidades em back-end, front-end, nuvens, integrações, gerenciamento ágil e muito mais. 
 <br><br>
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - realizados durante minha graduação no curso de Análise e Desenvolvito de Sistema. Colaborei com o desenvolvimento de seis projetos, sendo cada um deles entregues por semestre desde o começo da graduação. 
 <br><br>
