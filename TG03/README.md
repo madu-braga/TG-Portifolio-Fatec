@@ -181,7 +181,7 @@ Neste projeto fui <b>Product Owner</b>. Compreendi a necessidade do cliente e re
 - **Edição de imagens com Canva:** Sei fazer com autonomia. 
 
 ## Soft Skills
- - **Comunicação eficaz:** Comuniquei-me de forma clara e assertiva com o time e o cliente - exerci bem meu papel de PO; <br>
+ - **Comunicação eficaz:** Comuniquei-me de forma clara e assertiva com o time e o cliente - exerci bem meu papel de PO solucionando dúvidas e explicando cada fase do produto; <br>
  - **Planejamento:** Gerenciei bem o backlog do produto e a expectativa em nosso produto; <br>
  - **Organização:** Entreguei todas as minhas tarefas de maneira bem organizada e clara; <br>
  - **Produtividade:** Tive a iniciativa em nossas tarefas - como a criação da modelagem do banco de dados e estruturação do protótipo no Figma. <br>
