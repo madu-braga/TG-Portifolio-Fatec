@@ -42,8 +42,9 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
+ <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/java-FFD43B?style=for-the-badge&logo=java&logoColor=white" target="_blank">
 </details>
 
    <h4 align="left">Front-end </h4>  
