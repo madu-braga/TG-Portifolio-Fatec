@@ -118,23 +118,23 @@ A <b>Página de Opções</b> oferece recursos adicionais de segurança, como a c
 ## Requisitos 
 
 **Funcionais:**<br>
-✔️ Área de Cliente e áreade Administrador, com controles de acesso (autenticação/autorização);<br>
-✔️ Opções de criar e acompanhar ROs;<br>
-✔️ Comunicação com os administradores do sistema via chat;<br>
-✔️ Atualização do Status das ROs em tempo real;<br>
-✔️ Envio de e-mail com notificações para o cliente e administradores;<br>
-✔️ Relatórios/gráficos de sumarização das ROs.<br>
-
+✔️ Registro e Autenticação;<br>
+✔️ Registro de Empresa;<br>
+✔️ Inserção de Descrição de Cargo;<br>
+✔️ Notificação de Compreensão;<br>
+✔️ Web Scraping;<br>
+✔️ Notificação de Resultados;<br>
+✔️ Apresentação de Resultados;<br>
+✔️ Base de CHA.<br>
 <br>
 
 **Não Funcionais:**<br>
-✔️ Documentação com mapeamento das regras de negócio do cliente;<br>
-✔️ JavaScript;<br>
-✔️ TypeScript;<br>
-✔️ React;<br>
-✔️ ReactNative;<br>
-✔️ MongoDB;<br>
-✔️ Python.<br>
+✔️ Desempenho;<br>
+✔️ Segurança;<br>
+✔️ Escalabilidade;<br>
+✔️ Compatibilidade;<br>
+✔️ Resiliência;<br>
+✔️ Privacidade.<br>
 <br>
 > O repositório oficial do projeto pode ser acessado [aqui](https://github.com/inodevs-5/Reportify_Doc).
 
