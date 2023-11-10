@@ -141,10 +141,11 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
    - **MySQL:** Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
 
    <h4 align="left">Back-end </h4>  
-  - **Java:** Nossa linguagem de programação para contrução do Back-End;
-  - ** Spring:** Utilizamos esse framework de Java para manipulação do banco;
-  - ** Python:** Utlizamos como nossa Linguagem de programação para contrução da inteligência artificial;
-  - ** Django:** Utlizamos em nosso projeto esse framework de Python para ser nosso servidor de acesso à inteligência artificial.
+   
+   - ** Java: ** Nossa linguagem de programação para contrução do Back-End;
+   - ** Spring:** Utilizamos esse framework de Java para manipulação do banco;
+   - ** Python:** Utlizamos como nossa Linguagem de programação para contrução da inteligência artificial;
+   - ** Django:** Utlizamos em nosso projeto esse framework de Python para ser nosso servidor de acesso à inteligência artificial.
   
    <h4 align="left">Front-end </h4>  
    
