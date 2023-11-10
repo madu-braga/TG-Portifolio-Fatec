@@ -23,93 +23,81 @@ A abordagem adotada permitiu uma identificação mais precisa das correspondênc
 
 ## Telas
 
-Todas as telas abaixo foram desenvolvidas tanto para o website quanto para o aplicativo mobile.
+Todas as telas abaixo foram desenvolvidas para o website.
 
-<!-- Inicial -->
- <details>
-  <summary>
-  <h4 align="left">Tela de Login</h4>  
-  </summary>
-    Nossa <b>Tela de Login</b> foi desenvolvida com foco na intuitividade, buscando tornar a utilização da plataforma simples e fácil desde o primeiro contato. Nossa equipe se empenhou em criar uma interface clean, onde os colaboradores possam navegar com facilidade e aproveitar todas as funcionalidades disponíveis.
-    <br> <br>
-  Ao projetar essa tela, priorizamos não apenas o aspecto visual, mas também a segurança e a usabilidade para que o usuário possa se envolver de forma eficaz com a plataforma e desfrutar de uma experiência agradável e satisfatória desde o início.
-    
-  </details>
-  
-<!-- Home -->
-  <details>
-  <summary>
-   <h4 align="left">Tela Home</h4>  
-  </summary>
-  
-A <b>Tela Home</b> é visualizada após a autentificação e oferece diversas opções de botões para acesso às funcionalidades do sistema. Nós buuscamos proporcionar uma experiência consistente em ambas as plataformas, adaptando a interface de acordo com as características e necessidades específicas de cada dispositivo.
-  
-  </details>
-
-<!-- Dashboard -->  
- <details>
-  <summary>
-   <h4 align="left">Dashboard</h4>  
-  </summary>
-  
-A página <b> Dashboard </b> apresenta informações de maneira visual e interativa. Utilizamos cores vibrantes e recursos gráficos para destacar as informações relevantes e proporcionar uma experiência mais agradável e intuitiva para os usuários.
-
-Ao clicar em um tipo específico de RO, a plataforma apresenta informações detalhadas sobre ele em sua filtragem. 
-  
-  </details> 
-
-<!-- Registro de Ocorrência -->
-
- <details> 
-  <summary>
-   <h4 align="left">Registro de Ocorrência </h4>  
-  </summary>
- 
-A tela de <b> Registro de Ocorrência </b> mostra ao usuário uma listagem completa de registros de ocorrências. Esses registros podem ser pesquisados ​​por ID ou título, facilitando a localização de ocorrências específicas. Além disso, caso o usuário seja um administrador, há a opção de filtrar os registros por "Minhas Tasks", exibindo apenas as ocorrências atribuídas ao usuário para resolução.
-<br><br>
-Ao clicar em um registro de ocorrência específico, o administrador tem a capacidade de atualizá-lo com uma solução para o problema identificado. Após a resposta ser enviada, o cliente pode analisá-la e decidir entre concluir ou recusar o registro de ocorrência. Se a opção de concluir for escolhida, o registro de ocorrência é encerrado. No entanto, se for recusado, o registro de ocorrência retorna para análise adicional pelo administrador.
-
- </details>
-
-   
-<!-- Página de Membros do Suporte  -->
- <details>
-  <summary>
-   <h4 align="left">Tela de Membros do Suporte</h4>  
-  </summary>
-  
-Na tela de <b>Membros do Suporte</b> é apresentada uma lista dos usuários cadastrados no sistema que fazem parte do suporte. Essa funcionalidade permite uma visão geral dos membros do suporte, fornecendo informações importantes sobre cada um deles. Ao clicar em um usuário específico da lista, é possível visualizar mais detalhes sobre o membro do suporte selecionado. Nessa visualização ampliada, são exibidas informações detalhadas, como nome, função, contato e outras informações relevantes. Além disso, é possível atualizar os dados do usuário, caso seja necessário realizar alguma modificação.
-
-  </details>
-
-<!-- Meus Chats -->
+<!-- Autenticação -->
 <details>
   <summary>
-   <h4 align="left">Página de Meus Chats</h4>  
+    <h4 align="left">Tela de Login com autentificaçãoo</h4>  
   </summary>
-  
-A <b>Página de Meus Chats</b> é um recurso do sistema que permite aos usuários se comunicarem diretamente com o responsável pela resolução dos registros de ocorrências (RO's). Essa funcionalidade facilita a interação e o acompanhamento de questões específicas relacionadas aos RO's. Essa abordagem de comunicação direta agiliza o processo de resolução de RO's, permitindo uma interação rápida e eficaz entre o usuário e o responsável. Dessa forma, é possível obter respostas diretas e informações atualizadas sobre o progresso da resolução dos RO's, melhorando a comunicação e a transparência ao longo do processo.
-  
-  </details>
+A tela de <b>Login com autentificação</b> é o ponto de entrada para os usuários, onde a empresa fornece suas credenciais, incluindo endereço de e-mail e senha. A autenticação de dois fatores fez-se necessária para garantir um acesso seguro às funcionalidades da aplicação. Esta camada adicional de segurança é realizada por meio de um e-mail previamente cadastrado pela empresa, reforçando a proteção das informações.
 
-  <!-- Opções Extras -->
+</details>
+<!-- Cadastro de Empresa -->
 <details>
   <summary>
-   <h4 align="left">Página de Opções Extras</h4>  
+    <h4 align="left">Cadastro de Empresa</h4>  
   </summary>
-  
-A <b>Página de Opções</b> oferece recursos adicionais de segurança, como a criação e restauração de backups, e promove a transparência ao disponibilizar os termos de compromisso. Esses recursos visam garantir a integridade dos dados, fornecer informações claras sobre as expectativas de utilização e reforçar a confiabilidade do sistema.
-  
-  </details>
+A opção de <b>Cadastro de Empresa</b> na tela inicial permite que novas empresas se registrem no sistema. Ao selecionar esta opção, os usuários são redirecionados para um formulário detalhado, onde podem preencher as informações necessárias para criar uma conta. Isso simplifica o processo de entrada no sistema e oferece às empresas acesso rápido às funcionalidades oferecidas.
+
+</details>
+<!-- Listagem das Vagas -->
+<details>
+  <summary>
+    <h4 align="left">Listagem das Vagas</h4>  
+  </summary>
+Após o login, a <b>Listagem das Vagas</b> é acessível, fornecendo à empresa uma visão geral das oportunidades cadastradas. Nesta página, as empresas podem editar detalhes das vagas e visualizar o ranqueamento atualizado dos candidatos. A interface intuitiva facilita a gestão eficiente das informações relacionadas às oportunidades de emprego.
+
+</details>
+<!-- Ranqueamento de Candidatos -->
+<details>
+  <summary>
+    <h4 align="left">Tela de Ranqueamento dos Candidatos</h4>  
+  </summary>
+Ao clicar no ícone de visualização, os usuários podem acessar a tela de <b>Ranqueamento dos Candidatos</b>. Esta funcionalidade apresenta os oito melhores candidatos para uma vaga específica, junto com a porcentagem de correspondência. Essa abordagem fornece insights rápidos sobre a adequação dos candidatos para a vaga em questão.
+
+</details>
+<!-- Cadastro da Vaga (CHA) -->
+<details>
+  <summary>
+    <h4 align="left">Tela de Cadastro da nova Vaga</h4>  
+  </summary>
+Na tela de <b>Tela de Cadastro da nova Vaga</b>, os usuários podem criar novas oportunidades, inserindo um nome e um nível. A inteligência artificial gera automaticamente uma descrição da vaga com base nos Conhecimentos, Habilidades e Atitudes (CHA). Essa descrição pode ser ajustada posteriormente, proporcionando flexibilidade. Após salvar os dados, os usuários podem solicitar correspondência de candidatos, onde um Web Scrapping seleciona os perfis mais adequados.
+
+</details>
+<!-- Perfil -->
+<details>
+  <summary>
+    <h4 align="left">Tela de Perfil</h4>  
+  </summary>
+A página de <b>Perfil</b> permite que as empresas visualizem e editem suas informações cadastradas. Além disso, oferece a opção de redefinir a senha, proporcionando flexibilidade na gestão da conta.
+
+</details>
+<!-- Redefinição de Senha -->
+<details>
+  <summary>
+    <h4 align="left">Redefinição de Senha</h4>  
+  </summary>
+Além da opção de redefinir a senha na página de <b>Perfil</b>, é possível realizar esse procedimento diretamente na tela de login. Isso proporciona uma solução conveniente para os usuários que esqueceram suas senhas.
+
+</details>
+<!-- Notificações -->
+<details>
+  <summary>
+    <h4 align="left">Notificações</h4>  
+  </summary>
+Quando a empresa gera uma descrição CHA ou realiza um match, <b>Notificações</b> são enviadas por e-mail. Além disso, existe uma página de notificações dentro do site que permite às empresas acompanharem informações relevantes de maneira centralizada.
+
+</details>
 
   </details>
 
   <div width="100%">
-    <div width="50%" align="left" margin-left="1px"><img src="../gifs/sextoSemestre.gif" width="49%" align="left"></div>
+    <img src="../gifs/sextoSemestre.gif" width="720" height="420" align="left">
   </div>
 
 
-<br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br>  <br> <br> <br> <br>  <br>
 > Gif da execução completa.
 
 <br>
@@ -150,19 +138,18 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
  
    <h4 align="left">Data-base</h4>  
  
-   - **MongoDB:** Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
+   - **MySQL:** Utilizamos em nosso Banco de Dados para armazenar e alterar os dados. 
 
    <h4 align="left">Back-end </h4>  
-  
-  - **TypeScript:** Utilizamos como linguagem de programação para criação tanto da aplicação mobile quanto da web;
-  - **NodeJS:** Utilizamos para execução do JavaScript.
+  - **Java:** Nossa linguagem de programação para contrução do Back-End;
+  - ** Spring:** Utilizamos esse framework de Java para manipulação do banco;
+  - ** Python:** Utlizamos como nossa Linguagem de programação para contrução da inteligência artificial;
+  - ** Django:** Utlizamos em nosso projeto esse framework de Python para ser nosso servidor de acesso à inteligência artificial.
   
    <h4 align="left">Front-end </h4>  
    
-  - **CSS3:** Para estilizar nosso site;
-  - **JavaScript:** Utilizamos para criar animações em nosso Website;
-  - **React:** Utilizamos para o desennvolvimento das interfaces gráficas nas páginas web;
-  - **React Native:** Utilizamos no desenvolvimento do sistemas Android e iOS de forma nativa;
+  - ** TypeScript:** Nossa linguagem de programação para desenvolvimento de interações da aplicação web;
+  - ** Vue.js:** Nosso framework de JavaScript para desenvolvimento de interfaces gráficas.
   
    <h4 align="left">Outros</h4>  
  
@@ -174,8 +161,9 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto fui <b>Master</b>. Compreendi a necessidade do meu time, controlei as tasks e o backlog. Além disso, realizei minhas tasks, como criação do termo e criação de outras telas. Busquei compreender junto ao PO o MVP de cada entrega e trabalhei bem próxima ao time de desenvolvimento para garantir que o trabalho estivesse sempre alinhado com as prioridades do projeto.
+Neste projeto, desempenhei o papel de <b>Desenvolvedora</b>, contribuindo com a integração da inteligência artificial em nossa aplicação. Minhas responsabilidades incluíram a edição e manipulação do banco de dados, assim como as notificações do site para a aplicação e para o e-mail. Além disso, busquei compreender as necessidades e desafios dos nossos clientes para desenvolver uma solução que atendesse de maneira eficaz às suas expectativas.
 <div>
+
 
 ## Hard Skills
 - **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;<br>
