@@ -142,15 +142,15 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
    <h4 align="left">Back-end </h4>  
    
-   - ** Java: ** Nossa linguagem de programação para contrução do Back-End;
-   - ** Spring:** Utilizamos esse framework de Java para manipulação do banco;
-   - ** Python:** Utlizamos como nossa Linguagem de programação para contrução da inteligência artificial;
-   - ** Django:** Utlizamos em nosso projeto esse framework de Python para ser nosso servidor de acesso à inteligência artificial.
+   - **Java: ** Nossa linguagem de programação para contrução do Back-End; <br>
+   - **Spring:** Utilizamos esse framework de Java para manipulação do banco; <br>
+   - **Python:** Utlizamos como nossa Linguagem de programação para contrução da inteligência artificial; <br>
+   - **Django:** Utlizamos em nosso projeto esse framework de Python para ser nosso servidor de acesso à inteligência artificial. <br>
   
    <h4 align="left">Front-end </h4>  
    
-  - ** TypeScript:** Nossa linguagem de programação para desenvolvimento de interações da aplicação web;
-  - ** Vue.js:** Nosso framework de JavaScript para desenvolvimento de interfaces gráficas.
+  - **TypeScript:** Nossa linguagem de programação para desenvolvimento de interações da aplicação web;
+  - **Vue.js:** Nosso framework de JavaScript para desenvolvimento de interfaces gráficas.
   
    <h4 align="left">Outros</h4>  
  
