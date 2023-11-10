@@ -156,8 +156,7 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
  
   - **Github:** Nosso repositório, onde trabalhamos com o controle de versão;
   - **Visual Studio Code:** Nossa IDE para o desenvolvimento;
-  - **Figma:** Para criação do protótipo navegável;
-  - **Photoshop:** Para edição das imagens.
+  - **Figma:** Para criação do protótipo navegável.
 <br>
 
 ## Contribuições Pessoais
