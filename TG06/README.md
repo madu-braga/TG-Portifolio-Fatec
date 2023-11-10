@@ -5,7 +5,7 @@
   <a href ="#requisitos"> Requisitos </a>  • 
   <a href ="#tecnologias-utilizadas"> Tecnologias Utilizadas </a>  •
   <a href ="#contribuições-pessoais"> Contribuições Pessoais </a>  
-</p>
+</p> 
 
 <br>
 
