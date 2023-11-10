@@ -105,8 +105,7 @@ A <b>Página de Opções</b> oferece recursos adicionais de segurança, como a c
   </details>
 
   <div width="100%">
-    <div width="50%" align="left" margin-left="1px"><img src="../gifs/quintoSemestre_1.gif" width="49%" align="left"></div>
-    <div width="50%" align="right" margin-left="1px" ><img src="../gifs/quintoSemestre_2.gif"  width="49%" align="right"></div>
+    <div width="50%" align="left" margin-left="1px"><img src="../gifs/sextoSemestre.gif" width="49%" align="left"></div>
   </div>
 
 
