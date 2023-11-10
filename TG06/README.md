@@ -166,16 +166,11 @@ Neste projeto, desempenhei o papel de <b>Desenvolvedora</b>, contribuindo com a 
 
 
 ## Hard Skills
-- **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;<br>
-- **Habilidade em gerenciamento de backlog:** Sei fazer com autonomia;<br>
-- **TypeScript:** Sei fazer com auxílio de consultas;<br>
-- **React Native:** Sei fazer com auxílio de consultas;<br>
-- **CSS3:** Sei fazer com autonomia;<br>
-- **React:** Sei fazer com auxílio de consultas;<br>
-- **NodeJS:** Sei fazer com auxílio de consultas; <br>
-- **MongoDB:** Sei fazer com auxílio de consultas; <br>
-- **Criação de Wireframe com Figma:** Sei fazer com autonomia; <br>
-- **Habilidade de gerenciar o escopo do projeto:** Sei fazer com autonomia. <br>
+- **Java:** Sei fazer com autonomia;<br>
+- **Python:** Sei fazer com autonomia;<br>
+- **Vue:** Sei fazer com auxílio de consultas;<br>
+- **MySQL:** Sei fazer com autonomia;<br>
+- **Figma:** Sei fazer com autonomia. <br>
 
 ## Soft Skills
  - **Comunicação eficaz:** Comuniquei-me de forma clara e assertiva com o time dev, o PO e o cliente; - exerci bem meu papel de PO; <br>
