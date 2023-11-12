@@ -123,7 +123,7 @@ Quando a empresa gera uma descrição CHA ou realiza um match, <b>Notificações
 ✔️ Resiliência;<br>
 ✔️ Privacidade.<br>
 <br>
-> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/inodevs-5/Reportify_Doc).
+> O repositório oficial do projeto pode ser acessado [aqui](https://github.com/Inodevs-6/Inodevs-doc).
 
 <br>
 
