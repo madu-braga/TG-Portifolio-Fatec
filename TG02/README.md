@@ -1,6 +1,6 @@
 <h1 align="center"> Segundo Semestre - API </h1>
 <p align="center">
-  <a href ="#sobre-o-projeto"> Sobre o projeto  </a>  • 
+  <a href ="#sobre-o-projeto"> Sobre o projeto  </a>  •  
   <a href ="#telas"> Telas </a>  • 
   <a href ="#requisitos"> Requisitos </a>  • 
   <a href ="#tecnologias-utilizadas"> Tecnologias Utilizadas </a>  •
