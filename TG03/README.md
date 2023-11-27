@@ -181,6 +181,6 @@ Neste projeto fui <b>Product Owner</b>. Compreendi a necessidade do cliente e re
 - **Edição de imagens com Canva:** Sei fazer com autonomia. 
 
 ## Soft Skills
- - **Adaptabilidade:**Demonstrei habilidade em me adaptar a mudanças no escopo, permitindo que o backlog evoluísse conforme as necessidades do cliente e a capacidade do time, garantindo flexibilidade e eficiência no processo; <br>
+ - **Adaptabilidade:** Demonstrei habilidade em me adaptar a mudanças no escopo, permitindo que o backlog evoluísse conforme as necessidades do cliente e a capacidade do time, garantindo flexibilidade e eficiência no processo; <br>
  - **Negociação:** Utilizei habilidades de negociação ao lidar com o cliente, identificando claramente os pontos que poderíamos atender e propondo mudanças de forma estratégica para alcançar soluções mutuamente benéficas; <br>
  - **Transparencia:** Mantive uma comunicação transparente com o cliente do início ao fim do projeto. Expliquei de maneira clara como as informações estariam relacionadas, mostrei e ajustei o protótipo conforme necessário, e mantive o cliente informado sobre qualquer mudança no escopo, estabelecendo uma relação de confiança e colaboração. <br>
